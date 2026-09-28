@@ -13,10 +13,9 @@ proposals stay consistent while projects stay different.
 
 1. The job post or client brief (and any call notes).
 2. The client's current website, if there is one: look at it before writing.
-3. Past work, read directly from Notion (no HTML export):
-   - Portfolio database: `collection://2bdbd8b6-0a63-817a-86bf-000b152c4a85`
-   - Case studies database: `collection://850bd8b6-0a63-830c-adb5-87c54d079654`
-4. Output: a new Notion page under the proposals parent
+3. Past work from Notion, picked with `.claude/shared/portfolio-matching.md`.
+4. **Ask which name/profile signs the proposal.** Every time.
+5. Output: a new Notion page under the proposals parent
    `https://app.notion.com/p/3bbbd8b60a63808491b3c9ff358ed194`,
    titled `<Name> for <Client>`.
 
@@ -42,8 +41,17 @@ Pick one engagement type from the job post. If it is genuinely unclear, ask befo
    Each: a bold diagnosis phrase, then the business consequence
    ("X asks for Y from someone who just arrived, so they leave and you never hear from them").
    An observation without a consequence is cut.
-3. **Who actually buys.** One short, concrete paragraph: who the buyer is, what they are
-   really evaluating, and how that shapes the recommendation. Skip it when the audience is obvious.
+3. **Audience and category.** Always included, and it is research, not a persona:
+   - **Who actually buys**, concretely: who they are, what they are really evaluating,
+     what makes them hesitate. "An eval lead at a frontier lab about to make a
+     capability claim", never "a decision maker".
+   - **How 3–4 competitors design for their audience.** Table:
+     `Reference | Who they design for | What works | What we'd avoid copying`.
+     The middle columns connect each design choice to the audience it serves.
+   - **What applies here.** 2–3 sentences: which patterns fit this client's buyer,
+     which don't and why, and the position that follows ("the clarity of a tool, the
+     proof of an established UK service, the warmth of a real person").
+   Keep it to one screen in an Upwork bid; go deeper in paid Phase 0 audits.
 4. **The structural call.** State the fork (refresh vs. restructure, template vs. custom,
    plugin vs. custom code) and the decision, with the reason. Don't hedge.
    Quantify only from something observed; never invent a percentage.
@@ -52,6 +60,10 @@ Pick one engagement type from the job post. If it is genuinely unclear, ask befo
 7. **Estimate, timeline, assumptions** (rules below).
 8. **Questions**, grouped by category (rules below). Never skipped, even when scope feels clear.
 9. **Next steps**, 2–4 checkboxes, ending with the start of the first phase.
+   Each one is a decision on the approach or a clarification that changes scope
+   ("Choose Option A or B", "Confirm whether past boxes can show brand names").
+   Never logistics or anything the client has already answered
+   ("Which communication tool do you prefer?").
 
 ## Step 3: modules by project type
 
@@ -67,6 +79,7 @@ Pick one engagement type from the job post. If it is genuinely unclear, ask befo
 | Technical scope, data flow, edge cases | – | – | ✓ | – | – |
 | Audit scope and sample findings | – | – | – | ✓ | – |
 | Page/template list with open questions | ✓ | ✓ | – | – | – |
+| Working setup (large projects only, 60+ h) | ✓ | ✓ | ✓ | – | – |
 
 **What the redesign looks like in practice:** 3–5 principles, chosen for this client.
 The recurring ones below are a menu, not boilerplate. Use only those that answer a
@@ -88,10 +101,15 @@ Gutenberg, not a page builder. Short `Decision | Why it matters for this client`
 Blocks mirror the Figma components 1:1 so the team can add pages without a developer.
 Handoff: Loom walkthroughs plus written/Figma documentation.
 
+**Working setup** (large projects only): one shared source-of-truth folder with a
+naming convention; a content-status tracker
+(`Page/Section | Content | Assets | Design | Dev`); weekly or bi-weekly async check-in
+(Loom plus written summary); approval checkpoints at named milestones (homepage,
+design system, templates), each needing an explicit "approved" or "changes requested".
+
 ## Step 4: relevant work
 
-- Query the Portfolio database by engagement type first, then industry, then tech.
-  Prefer shipped work over concepts when the client needs a build.
+- Run the selection pass in `.claude/shared/portfolio-matching.md`.
 - Cite 1–3 projects. For each, say specifically why it is comparable
   (same stack, same audience, same structural problem). No bare links.
 - Name the single most comparable project in a callout when one stands out.
@@ -101,7 +119,10 @@ Handoff: Loom walkthroughs plus written/Figma documentation.
 
 - Table: `Workstream | What it includes | Hours`. Design, development and
   technical/SEO/QA/training are always separate rows; never one bundled number.
-- Give total hours **and** a USD price. <!-- TODO: hourly rate, see open questions -->
+- Give total hours **and** a USD price. Rates: **design $30/h** (UX audit, concepts,
+  design system, templates, design handoff); **development $25/h** (build,
+  integrations, migration, SEO, analytics, QA, training). Show hours as ranges and
+  price the range.
 - Say why the sequence is what it is ("we don't build the system before you like the direction").
 - If scope is uncertain, offer two named options (Option A focused fix / Option B full
   restructure + build), each with hours, price and timeline.
