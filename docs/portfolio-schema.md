@@ -1,6 +1,12 @@
 # Portfolio database: proposed fields
 
-Status: **proposal, not applied.** Nothing in Notion changes until this is approved.
+Status: **applied 2026-09-28.** All 59 projects re-tagged; Avetex Furniture added (60 rows).
+
+Note: Notion merged "rename old field + add field with the same name" into one field, so the
+old Industry and Deliverables values were overwritten. They were restored from
+`portfolio-snapshot-2026-09-28.json` (the full pre-change export) into the new fields.
+Tags and design are kept as "Tags (old)" and "design (old)".
+All 25 "guess" rows were confirmed as built (Design + build).
 
 Goal: the skills can match a job to past work on separate questions (what kind of
 engagement, what was delivered, what it runs on, what it does, who it's for, how it
@@ -14,7 +20,7 @@ looks, how real it is) instead of one mixed Tags field.
 | Redesign | checkbox | ticked when an existing site was replaced | "Redesign" tag |
 | Deliverables | multi-select (cleaned) | Figma designs · Live website · WordPress plugin · Brand identity · App / dashboard design · Audit report | current Deliverables |
 | Pages designed | multi-select | Home page · Landing page · Full site · PDP · Catalog / PLP · Checkout · Dashboard · App screens | page types now in Deliverables |
-| Stack | multi-select | ACF · Gutenberg · Custom theme · Elementor · Divi · Kadence · WooCommerce · React · Chart.js · FacetWP · SearchWP · The Events Calendar · Brevo · REST API | tech tags |
+| Stack | multi-select | ACF · Gutenberg · Custom theme · Elementor · Divi · Kadence · WooCommerce · React · Chart.js · FacetWP · SearchWP · The Events Calendar · Brevo | tech tags (API → Features) |
 | Features | multi-select | Booking · Listing / directory · Job board · Membership · Subscriptions · Bidding · E-commerce · Calculator · Blog · LMS · Dashboard · Multilingual · Third-party API sync | feature tags |
 | Business model | multi-select | B2B · B2C · DTC · SaaS · Marketplace · Service business | B2B, DTC, SaaS tags |
 | Industry | multi-select (cleaned) | see below | current Industry |
@@ -38,18 +44,12 @@ The old **Tags** and **design** fields stay (hidden) until the migration is chec
 
 ## Case studies database
 
-It currently mixes two kinds of pages: case studies (MEENZ, Élan) and proposals for
-jobs (Avetex, SAL, LocalLinksGuide), plus one row whose title is a prompt
-("Could you create me a case study deck…"). Proposed:
+Holds the case-study overviews used for Upwork portfolio items. Linked to Portfolio through
+the **Case study** relation: MEENZ, Elan, Ana San Sebastian, PlySupply, CSV Product Import
+Plugin, SAL ID, Local Links Guide, Avetex Furniture (both versions).
+The prompt-titled row ("Could you create me a case study deck…") is to be deleted by hand.
 
-- Add a **Kind** select: Case study · Proposal.
-- Link case studies to Portfolio: MEENZ → MEENZ, Élan → Elan, Ana San Sebastián → Ana San Sebastian,
-  PlySupply and the CSV Import Plugin proposal → PlySupply / CSV Product Import Plugin,
-  SAL project → SAL ID, LocalLinksGuide → Local Links Guide.
-- Avetex Furniture has two won proposals but no Portfolio row: add one?
-- The prompt-titled row: delete, or rename?
-
-## Draft re-tagging (key fields)
+## Re-tagging as proposed (before corrections; guesses were all confirmed as Design + build)
 
 Worked out from the current Deliverables, Tags and Link fields. "guess" means the row is
 tagged "full design" but its stack tags and live link suggest it was also built. Please

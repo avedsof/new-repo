@@ -7,6 +7,15 @@ Notion (the old Portfolio.html export is no longer used).
 - Case studies database (in-depth write-ups for the best projects):
   `collection://850bd8b6-0a63-830c-adb5-87c54d079654`
 
+## Fields to query (see docs/portfolio-schema.md)
+
+Engagement · Redesign · Deliverables · Pages designed · Stack · Features · Business model ·
+Industry · Aesthetic · Proof level · Showcase frames · Story · Case study.
+Ignore "Tags (old)" and "design (old)". Filter in SQL on these fields first, then read the
+shortlisted pages. Use **Story** as the starting point for the cover-letter case text and
+**Showcase frames** for images; if Story is empty, write one from the case study or page
+and offer to save it back.
+
 ## Selection pass (do it every time, silently)
 
 1. From the job post, identify: functionality, industry, visual/aesthetic world,
