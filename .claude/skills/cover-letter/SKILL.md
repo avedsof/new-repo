@@ -6,14 +6,17 @@ description: Write an Upwork cover letter in the user's casual chat voice, with 
 # Cover letter
 
 Consolidated from the Notion pages "Upwork Cover Letter Guide", "CoverLetter_Guide" and
-"CoverLetter_Styleguide". Where they disagreed, the newer Upwork Cover Letter Guide wins.
+"CoverLetter_Styleguide". The same rules are mirrored in the Notion page
+"Cover Letter Guide (Consolidated)" for use outside Claude
+(https://app.notion.com/p/3e9bd8b60a63815bbfd6dd0effc0b39c); keep them in sync. Where they disagreed, the newer Upwork Cover Letter Guide wins.
 Tone examples live in CoverLetter_Styleguide:
 `https://app.notion.com/p/3cdbd8b60a6380afb541fec53d9cb592`. Read them for rhythm only;
 never reuse their portfolio picks.
 
 ## Before writing
 
-1. **Ask which name/profile signs the letter.** Every time.
+1. **Ask which name signs the letter.** Every time. The name decides which GitHub
+   account code cases link to (see `.claude/shared/portfolio-matching.md`).
 2. Read the job post. If a company or site is named, look it up and use one concrete
    observation from it.
 3. Classify the job (same types as `proposal-writer`) and run the portfolio selection
@@ -85,4 +88,4 @@ Short, casual post → short, casual letter. Match the post's length and energy.
 - "Before I shape a proposal, can I ask…", "Quick question before I dive deeper".
 - Bold headers or bullet-heavy formatting inside the letter.
 - Questions answered by the post, and logistics questions ("which communication tool?").
-- Invented portfolio projects.
+- Imaginary cases drafted without asking first (see the shared matching file).

@@ -23,10 +23,37 @@ Notion (the old Portfolio.html export is no longer used).
    A weak or generic answer means drop it.
 5. Pull the summary from the Case studies database when the project has one.
 
-## When nothing fits
+## When nothing fits: imaginary case (ask first)
 
-Never invent a project. Use the closest real project and say plainly what carries over
-(stack, audience, problem solved), or offer a short concept or test task instead.
+If no real project passes the selection test, **stop and ask the user** whether to draft
+an imaginary case. Don't draft one unasked.
+
+If they say yes:
+1. Build it from real projects: take the closest real case(s) and adapt them to the job's
+   criteria (functionality, industry, aesthetic, stack, goal).
+2. Show it to the user as a draft, written exactly as it would appear in the cover letter
+   (`⚡️ [Project]. [story]`) or proposal (relevant-work tab), headed
+   **IMAGINARY CASE: review before sending**, followed by a note listing which real
+   projects it was adapted from and what was changed.
+3. No made-up live links, GitHub repos or metrics. Link only real Figma/live URLs from the
+   source projects, and only where they genuinely illustrate the point.
+4. The user decides whether and how it goes into the final text.
+
+## GitHub links by signature
+
+Ask which name signs the letter or proposal, then use that person's GitHub for code cases:
+
+| Signature | GitHub |
+|---|---|
+| Andrew | https://github.com/andrewpuzyrevichG |
+| Yulia | https://github.com/yuliakolyada624 |
+| Any other name | Ask which of the two to use |
+
+Known repos on both accounts: Beds24 booking engine
+(`andrewpuzyrevichG/beds24-booking`, `yuliakolyada624/beds24_booking_engine`) and the
+Zoho/WooCommerce plugin (`andrewpuzyrevichG/zoho_plugin`, `yuliakolyada624/zoho_int-main`).
+SAL plugins: only `andrewpuzyrevichG/sal_id` is known; for a Yulia letter, ask for the
+repo or show the live site https://sal.org.sg/ instead.
 
 ## Links
 

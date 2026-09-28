@@ -14,7 +14,8 @@ proposals stay consistent while projects stay different.
 1. The job post or client brief (and any call notes).
 2. The client's current website, if there is one: look at it before writing.
 3. Past work from Notion, picked with `.claude/shared/portfolio-matching.md`.
-4. **Ask which name/profile signs the proposal.** Every time.
+4. **Ask which name signs the proposal.** Every time. The name decides which GitHub
+   account code cases link to (see `.claude/shared/portfolio-matching.md`).
 5. Output: a new Notion page under the proposals parent
    `https://app.notion.com/p/3bbbd8b60a63808491b3c9ff358ed194`,
    titled `<Name> for <Client>`.
