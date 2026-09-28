@@ -8,5 +8,29 @@
       "mcp__Notion__notion-update-page",
       "mcp__Notion__notion-update-data-source"
     ]
+  },
+  "extraKnownMarketplaces": {
+    "claude-plugins-official": {
+      "source": {
+        "source": "github",
+        "repo": "anthropics/claude-plugins-official"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "figma@claude-plugins-official": true
+  },
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "\"$CLAUDE_PROJECT_DIR\"/.claude/hooks/install-figma-plugin.sh",
+            "timeout": 180
+          }
+        ]
+      }
+    ]
   }
 }
