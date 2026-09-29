@@ -5,6 +5,9 @@ description: Write a client proposal (Upwork bid or direct scoping doc) as a Not
 
 # Proposal writer
 
+Mirrored as a Notion Skill: https://app.notion.com/p/3eabd8b60a6381ebb0ecec35e73ff4ec
+(self-contained copy with the portfolio-matching rules inlined; keep the two in sync).
+
 Built from the Whiskey Library, Miss Money Savvy, Venla and Nulixir proposals.
 The skeleton never changes; the modules change with the project type. That is how
 proposals stay consistent while projects stay different.
@@ -16,9 +19,9 @@ proposals stay consistent while projects stay different.
 3. Past work from Notion, picked with `.claude/shared/portfolio-matching.md`.
 4. **Ask which name signs the proposal.** Every time. The name decides which GitHub
    account code cases link to (see `.claude/shared/portfolio-matching.md`).
-5. Output: a new Notion page under the proposals parent
-   `https://app.notion.com/p/3bbbd8b60a63808491b3c9ff358ed194`,
-   titled `<Name> for <Client>`.
+5. Output: a new Notion page under the Lab page
+   `https://app.notion.com/p/494bd8b60a6382b1b25601bf122dd7f1`,
+   titled `<Name> for <Client>`. If Lab can't be reached, ask where to save it.
 
 ## Step 1: classify the project
 
