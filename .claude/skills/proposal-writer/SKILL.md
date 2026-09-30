@@ -101,13 +101,10 @@ problem named in section 2:
 **How the concept review works for you:** written for the client, placed right under
 the concepts phase. Clients approve concepts faster, and give feedback that can be acted
 on, when they know in advance what they will receive and what is asked of them. Cover:
-- **What they receive:** one Figma link with a moodboard; 2–3 homepage concepts, each in
-  desktop and mobile (say "mobile first" when their audience is mostly on phones); a mini
-  UI kit with the key element states (buttons, form fields) beside each concept; a
-  reusable icon set only if it is in the estimate.
-- **How the directions differ:** one concept stays close to their current look with the
-  new structure; the others are more exploratory while keeping brand colours and tone.
-  Adjust to the project (e.g. all three exploratory in a full rebrand).
+- **What they receive:** one Figma link with 2–3 homepage concepts, each in desktop and
+  mobile (say "mobile first" when their audience is mostly on phones); a mini UI kit
+  with the key element states (buttons, form fields) beside each concept; a reusable
+  icon set only if it is in the estimate.
 - **How to give feedback:** tell us which concept feels most like them, and mix freely
   ("the hero from 2 with the colours from 1"); comment directly in Figma or reply by
   message, whichever is easier.
@@ -117,13 +114,12 @@ on, when they know in advance what they will receive and what is asked of them. 
 Keep it to one short block in their own words, not a process diagram. Never promise a
 deliverable the estimate doesn't cover. Example:
 
-> You'll get one Figma link with a moodboard and three homepage concepts, each in desktop
-> and mobile, with the key buttons and form states laid out beside them. Concept 1 keeps
-> close to your current look with the new structure; 2 and 3 are more exploratory while
-> keeping your brand colours and tone. When you review, tell us which one feels most like
-> you, and feel free to mix ("the hero from 2 with the colours from 1"). Comment in Figma
-> or reply by message, whichever is easier. Two consolidated revision rounds follow, then
-> you approve the direction before we build the design system.
+> You'll get one Figma link with three homepage concepts, each in desktop and mobile,
+> with the key buttons and form states laid out beside them. When you review, tell us
+> which one feels most like you, and feel free to mix ("the hero from 2 with the colours
+> from 1"). Comment in Figma or reply by message, whichever is easier. Two consolidated
+> revision rounds follow, then you approve the direction before we build the design
+> system.
 
 **WordPress approach:** default recommendation is a custom theme with ACF Pro and
 Gutenberg, not a page builder. Short `Decision | Why it matters for this client` table.

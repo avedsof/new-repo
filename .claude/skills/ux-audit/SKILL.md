@@ -46,8 +46,7 @@ Otherwise say so and stop.
 9. **Priorities and next steps:** what to do first, and how it maps to the redesign scope.
    When the next phase is homepage concepts, close with a short **What happens next**
    block so the client knows what the concept review will look like: what they'll receive
-   (moodboard, 2–3 concepts in desktop and mobile, key element states), how the directions
-   differ, how to give feedback (pick the one that feels most like them, mix freely,
+   (2–3 concepts in desktop and mobile, key element states), how to give feedback (pick the one that feels most like them, mix freely,
    comment in Figma or reply) and that they approve the direction before the design
    system. Use the "How the concept review works for you" module in the `proposal-writer`
    skill as the source; keep it consistent with what the proposal promised.
