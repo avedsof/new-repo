@@ -5,6 +5,9 @@ description: Write an internal RFP page in Notion for the developer (or designer
 
 # RFP writer
 
+Mirrored as a Notion Skill: https://app.notion.com/p/3ebbd8b60a638189a9beef8af315fae8
+(self-contained copy with the page template inlined; keep the two in sync).
+
 An RFP here is an **internal** Notion page that hands a client request to our developer:
 what the client wants, what we've already promised, the options, what needs their
 judgment and a table for their estimate. Reference page:
