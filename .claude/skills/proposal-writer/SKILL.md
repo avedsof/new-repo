@@ -5,6 +5,9 @@ description: Write a client proposal (Upwork bid or direct scoping doc) as a Not
 
 # Proposal writer
 
+Mirrored as a Notion Skill: https://app.notion.com/p/3eabd8b60a6381ebb0ecec35e73ff4ec
+(self-contained copy with the portfolio-matching rules inlined; keep the two in sync).
+
 Built from the Whiskey Library, Miss Money Savvy, Venla and Nulixir proposals.
 The skeleton never changes; the modules change with the project type. That is how
 proposals stay consistent while projects stay different.
@@ -16,9 +19,9 @@ proposals stay consistent while projects stay different.
 3. Past work from Notion, picked with `.claude/shared/portfolio-matching.md`.
 4. **Ask which name signs the proposal.** Every time. The name decides which GitHub
    account code cases link to (see `.claude/shared/portfolio-matching.md`).
-5. Output: a new Notion page under the proposals parent
-   `https://app.notion.com/p/3bbbd8b60a63808491b3c9ff358ed194`,
-   titled `<Name> for <Client>`.
+5. Output: a new Notion page under the Lab page
+   `https://app.notion.com/p/494bd8b60a6382b1b25601bf122dd7f1`,
+   titled `<Name> for <Client>`. If Lab can't be reached, ask where to save it.
 
 ## Step 1: classify the project
 
@@ -98,13 +101,13 @@ problem named in section 2:
 - columns `# | Section | Intent and content`; every row says why the section exists;
 - new sections that don't exist today are flagged explicitly.
 
-**How the concept review works for you:** written for the client, placed right under
-the concepts phase. Clients approve concepts faster, and give feedback that can be acted
-on, when they know in advance what they will receive and what is asked of them. Cover:
+**How the concept review works for you:** written for the client, placed right under the
+concepts phase. Clients approve concepts faster, and give feedback that can be acted on,
+when they know in advance what they will receive and what is asked of them. Cover:
 - **What they receive:** one Figma link with 2–3 homepage concepts, each in desktop and
-  mobile (say "mobile first" when their audience is mostly on phones); a mini UI kit
-  with the key element states (buttons, form fields) beside each concept; a reusable
-  icon set only if it is in the estimate.
+  mobile (say "mobile first" when their audience is mostly on phones); a mini UI kit with
+  the key element states (buttons, form fields) beside each concept; a reusable icon set
+  only if it is in the estimate.
 - **How to give feedback:** tell us which concept feels most like them, and mix freely
   ("the hero from 2 with the colours from 1"); comment directly in Figma or reply by
   message, whichever is easier.
@@ -114,12 +117,11 @@ on, when they know in advance what they will receive and what is asked of them. 
 Keep it to one short block in their own words, not a process diagram. Never promise a
 deliverable the estimate doesn't cover. Example:
 
-> You'll get one Figma link with three homepage concepts, each in desktop and mobile,
-> with the key buttons and form states laid out beside them. When you review, tell us
-> which one feels most like you, and feel free to mix ("the hero from 2 with the colours
-> from 1"). Comment in Figma or reply by message, whichever is easier. Two consolidated
-> revision rounds follow, then you approve the direction before we build the design
-> system.
+> You'll get one Figma link with three homepage concepts, each in desktop and mobile, with
+> the key buttons and form states laid out beside them. When you review, tell us which one
+> feels most like you, and feel free to mix ("the hero from 2 with the colours from 1").
+> Comment in Figma or reply by message, whichever is easier. Two consolidated revision
+> rounds follow, then you approve the direction before we build the design system.
 
 **WordPress approach:** default recommendation is a custom theme with ACF Pro and
 Gutenberg, not a page builder. Short `Decision | Why it matters for this client` table.
