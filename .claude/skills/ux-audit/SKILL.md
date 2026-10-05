@@ -5,6 +5,9 @@ description: Produce a UX audit presentation in Figma for a redesign project —
 
 # UX audit deck
 
+Mirrored as a Notion Skill: https://app.notion.com/p/3f0bd8b60a638188b6c6ecaa99ce61f6
+(self-contained copy with the deck style rules inlined; keep the two in sync).
+
 Two references for what good looks like:
 - **Grande Hot Springs audit**, slides 13–27 (facts that disagree, navigation today vs.
   proposed, sitemap tree, page inventory by purpose, booking paths, next steps,
