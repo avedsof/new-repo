@@ -5,6 +5,9 @@ description: Produce a UX audit presentation in Figma for a redesign project —
 
 # UX audit deck
 
+Mirrored as a Notion Skill: https://app.notion.com/p/3f0bd8b60a638188b6c6ecaa99ce61f6
+(self-contained copy with the deck style rules inlined; keep the two in sync).
+
 Two references for what good looks like:
 - **Grande Hot Springs audit**, slides 13–27 (facts that disagree, navigation today vs.
   proposed, sitemap tree, page inventory by purpose, booking paths, next steps,
@@ -63,6 +66,13 @@ Otherwise say so and stop.
     what gets designed first, access and materials. Follow with one slide for access
     (`Access | Why we need it | Role`, never passwords) and one for missing materials
     (`Material | What it's for`) when there are any.
+    When the next phase is homepage concepts, add a short **What happens next** block so
+    the client knows what the concept review will look like: what they'll receive (2–3
+    concepts in desktop and mobile, key element states), how to give feedback (pick the
+    one that feels most like them, mix freely, comment in Figma or reply) and that they
+    approve the direction before the design system. Use the "How the concept review works
+    for you" module in the `proposal-writer` skill as the source; keep it consistent with
+    what the proposal promised.
 14. **Questions to confirm** (always last). First a slide with the questions that shape
     the structure and the estimate (cards: question + "Shapes …"), then content
     questions as `# | Topic | Question`, six per slide. Every question changes scope,
