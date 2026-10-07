@@ -148,8 +148,8 @@ audience (a mobile-first fashion page for a streetwear store, for example).
 
 **WordPress approach:** default recommendation is a custom theme with ACF Pro and
 Gutenberg, not a page builder or a bought template. Short
-`Decision | Why it matters for this client` table. Blocks mirror the Figma components
-1:1 so the team can add pages without a developer. Handoff: video walkthroughs plus a
+`Decision | Why it matters for this client` table. The team can add pages without a
+developer: blocks mirror the Figma components 1:1. Handoff: video walkthroughs plus a
 short written guide. The ACF Pro licence is covered on our side.
 
 **Client templates:** when a client offers an older theme or template, recommend a
@@ -203,8 +203,8 @@ explicit "approved" or "changes requested".
 - Grouped by category (Business and data / Structure and content / Assets and
   technical, or one group per site when there are several).
 - Each answerable in one sentence, and each visibly changes scope, price or timeline.
-  Say why when it isn't obvious ("the number of sections per page decides the design
-  and build time, so seeing your copy outlines lets me keep the price fixed").
+  Say why when it isn't obvious, in its own sentence ("Do you have copy outlines for
+  the pages? The number of sections per page decides the design and build time.").
 - When something can't be judged without client data, ask for it here instead of guessing.
 
 ## Facts before claims
@@ -233,6 +233,15 @@ follows these rules:
 - Ground every expertise claim in a real project or in something observed on the
   client's site or references.
 - Bold the diagnosis phrase, not the whole sentence.
+- **End the sentence on what we do.** No tail that explains why or argues against
+  something nobody suggested: ", so…", "so that…", "before anything…", "…and not Y",
+  "instead of…", "which means…", including "X, not shrunken Y" contrasts.
+  Test: cover the tail. If the client still gets everything they need, cut it. If the
+  reason matters, give it its own short sentence or lead with it.
+  "I'll design tablet and mobile too, so they get real layouts and not shrunken desktop
+  ones" → "I'll design tablet and mobile layouts too."
+  "Custom design in Figma before anything gets built" → "It starts with a custom design
+  in Figma."
 - Callouts sparingly: recommendation (🔑), decision needed (⚠️), most comparable
   project (⭐), "already works, don't touch".
 - Write "we" for the studio and "I" for the person signing; keep it consistent.
@@ -267,6 +276,8 @@ in the cover-letter voice:
 - Formal intros ("Dear Client", "I'm excited to apply"), "I have X years of
   experience", "I'm confident my skills…", "Furthermore/Moreover/Additionally",
   "I look forward to hearing from you", "Please find attached".
+- Explanation tails at the end of a sentence (", so they get real layouts and not
+  shrunken desktop ones", "before anything gets built"). See the voice rules.
 - Opening with generic praise.
 - A problem without its business consequence.
 - A single bundled hours/price number.

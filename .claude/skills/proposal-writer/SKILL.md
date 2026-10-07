@@ -125,7 +125,7 @@ deliverable the estimate doesn't cover. Example:
 
 **WordPress approach:** default recommendation is a custom theme with ACF Pro and
 Gutenberg, not a page builder. Short `Decision | Why it matters for this client` table.
-Blocks mirror the Figma components 1:1 so the team can add pages without a developer.
+The team can add pages without a developer: blocks mirror the Figma components 1:1.
 Handoff: Loom walkthroughs plus written/Figma documentation.
 
 **Working setup** (large projects only): one shared source-of-truth folder with a
@@ -172,6 +172,15 @@ design system, templates), each needing an explicit "approved" or "changes reque
 - Direct, specific, numbers over adjectives, confident but not salesy.
 - Short declarative verdicts ("I'd restructure." "This is where most of the gain sits.").
 - Bold the diagnosis phrase, not the whole sentence.
+- **End the sentence on what we do.** No tail that explains why or argues against
+  something nobody suggested: ", so…", "so that…", "before anything…", "…and not Y",
+  "instead of…", "which means…", including "X, not shrunken Y" contrasts.
+  Test: cover the tail. If the client still gets everything they need, cut it. If the
+  reason matters, give it its own short sentence or lead with it.
+  "I'll design tablet and mobile too, so they get real layouts and not shrunken desktop
+  ones" → "I'll design tablet and mobile layouts too."
+  "Custom design in Figma before anything gets built" → "It starts with a custom design
+  in Figma."
 - Callouts sparingly: recommendation (🔑), decision needed (⚠️), phase headers,
   "already works, don't touch".
 
@@ -187,3 +196,5 @@ each tied to the client's stated goal) → **Bottom line** in one paragraph.
 - Give a single bundled hours/price number.
 - Paste principles or setup blocks that don't answer this client's problems.
 - Skip the questions section.
+- End a sentence with an explanation tail (", so…", "before anything gets built",
+  "…and not shrunken desktop ones"). See Tone.
