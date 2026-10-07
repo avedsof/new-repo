@@ -113,6 +113,14 @@ Led by what each page is for and what the visitor should do there, not by audit 
 - For each marker: **Problem** (what happens and what it costs) → **Change** (what we do
   instead). Add **Why** only when the reason isn't obvious.
 - Up to three markers per slide; more means split the screen into two slides.
+- **End each Problem and Change line on the fact or the action.** No tail that explains
+  why or argues against something nobody suggested: ", so…", "so that…",
+  "before anything…", "…and not Y", "instead of…", "which means…".
+  Test: cover the tail. If the line still says everything, cut it. If the reason
+  matters, it goes in **Why**.
+  "Merge the two menus so visitors find the booking page faster" → "Merge the two
+  menus." with Why: "Visitors look for booking in two places."
+  The same rule applies to slide headlines, the verdict and next-step cards.
 
 ## Fact check (before building, and again before sending)
 
