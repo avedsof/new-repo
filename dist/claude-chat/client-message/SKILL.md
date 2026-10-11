@@ -5,6 +5,9 @@ description: Turn a developer's or designer's update (often informal, technical,
 
 # Client message
 
+Mirrored as a Notion Skill: https://app.notion.com/p/3f6bd8b60a63815ebccaf7c11d847456
+(keep the two in sync).
+
 Claude chat version of the client-message skill from the avedsof/new-repo repository.
 Works without connectors. With the Notion connector, it can also read the client page
 and proposal for context.

@@ -5,6 +5,9 @@ description: Turn a developer's or designer's update (often informal, technical,
 
 # Client message
 
+Mirrored as a Notion Skill: https://app.notion.com/p/3f6bd8b60a63815ebccaf7c11d847456
+(keep the two in sync).
+
 Turns what the team says into what the client needs to hear. The client should finish
 the message knowing what changed for them, what (if anything) they need to do, and what
 happens next. They should never have to decode a technical term to get there.
