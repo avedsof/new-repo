@@ -91,10 +91,25 @@ Links are always full plain URLs, never Markdown link syntax.
   mentioned").
 - For design jobs, name the process when it helps ("2–3 homepage concepts in different
   style directions").
-- Method statements put the outcome first: "To keep the values editable later I'm
-  connecting them to ACF fields", not "I'd connect the values to ACF fields so they stay
-  editable". When the client needs to act, make it an ask: "Can I see your current setup first?"
+- Method statements say what I do and why in one sentence: "I'm connecting the values
+  to ACF fields because you'll want to edit them later", not "The values are connected
+  to ACF fields so they stay editable". When the client needs to act, make it an ask: "Can I see your current setup first?"
 - Asks are direct: "Can I ask you to share…", "Could you show me…".
+- **Writing style (applies to every client-facing text):**
+  - Write in first person as "I do this". Add a reason only when the client needs it
+    and only with "because" in the same sentence ("I anonymise the database because it
+    holds your customers' details"). Leave it out when the client's question already
+    makes the reason obvious.
+  - Never use passive voice or make an inanimate thing the subject that acts
+    ("Payments stay in test mode", "The database is anonymised"). Make me the one doing
+    it ("I keep payments in test mode").
+  - Never end a sentence with a contrast tail like ", not a copy of production" or
+    ", not just X".
+  - Never put a comma before "and" or "or".
+  - "I do this because…" as one thought. "Because" is the only way to add a reason.
+    ", so…", "so that…", "which means…" and "…and not Y" are never used.
+  - Keep paragraphs to one or two lines so the reader can scan them. Break long answers
+    into several short paragraphs.
 - 1–2 light typos in the casual narrative only (letter swap, lowercase "i", small
   run-on). Never in names, links, the signature or technical terms.
 
@@ -102,6 +117,9 @@ Links are always full plain URLs, never Markdown link syntax.
 
 - Em dashes. Colons used as structure.
 - "rather than…", "not just X, but Y".
+- Reason or contrast tails other than "because" (", so…", "so that…", "which means…",
+  ", not a copy of production", "…and not Y"). A comma before "and" or "or". Passive
+  voice or a thing as the subject. See the writing style rules.
 - Generic expertise observations ("the tricky part is usually…", "where most
   integrations break"). Tie it to a real project or cut it.
 - Restating the job requirements back to the client.

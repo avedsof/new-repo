@@ -113,6 +113,24 @@ Led by what each page is for and what the visitor should do there, not by audit 
 - For each marker: **Problem** (what happens and what it costs) → **Change** (what we do
   instead). Add **Why** only when the reason isn't obvious.
 - Up to three markers per slide; more means split the screen into two slides.
+- **Writing style (applies to every client-facing text):**
+  - Write in first person as "I do this". Add a reason only when the client needs it
+    and only with "because" in the same sentence ("I anonymise the database because it
+    holds your customers' details"). Leave it out when the client's question already
+    makes the reason obvious.
+  - Never use passive voice or make an inanimate thing the subject that acts
+    ("Payments stay in test mode", "The database is anonymised"). Make me the one doing
+    it ("I keep payments in test mode").
+  - Never end a sentence with a contrast tail like ", not a copy of production" or
+    ", not just X".
+  - Never put a comma before "and" or "or".
+  - "I do this because…" as one thought. "Because" is the only way to add a reason.
+    ", so…", "so that…", "which means…" and "…and not Y" are never used.
+  - Keep paragraphs to one or two lines so the reader can scan them. Break long answers
+    into several short paragraphs.
+  - On finding slides, end each Problem and Change line on the fact or the action. If
+    the reason matters, it goes in **Why**. The same applies to headlines, the verdict
+    and next-step cards.
 
 ## Fact check (before building, and again before sending)
 
