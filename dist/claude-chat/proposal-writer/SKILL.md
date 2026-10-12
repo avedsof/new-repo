@@ -134,12 +134,11 @@ the concepts phase. Cover:
 Keep it to one short block in their own words, not a process diagram. Never promise a
 deliverable the estimate doesn't cover. Example:
 
-> You'll get one Figma link with three homepage concepts, each in desktop and mobile,
-> with the key buttons and form states laid out beside them. When you review, tell us
-> which one feels most like you, and feel free to mix ("the hero from 2 with the
-> colours from 1"). Comment in Figma or reply by message, whichever is easier. Two
-> consolidated revision rounds follow, then you approve the direction before we build
-> the design system.
+> You'll get one Figma link with three homepage concepts, each in desktop and mobile, with
+> the key buttons and form states laid out beside them. When you review, tell us which one
+> feels most like you and feel free to mix ("the hero from 2 with the colours from 1").
+> Comment in Figma or reply by message, whichever is easier. We then do two consolidated
+> revision rounds and you approve the direction before we build the design system.
 
 **What the concepts look like in practice:** 1–3 real concept files from the Portfolio
 (Engagement "Concept / test task" or Pages designed "Home page"), each with one line on
@@ -226,22 +225,28 @@ follows these rules:
 - Short declarative verdicts ("I'd rebuild." "This is where most of the gain sits.").
 - Mirror concrete details from the brief (a tool, a reference, "the templates you
   mentioned").
-- Method statements put the outcome first: "To keep the values editable later I'm
-  connecting them to ACF fields", not "I'd connect the values to ACF fields so they
-  stay editable".
+- Method statements say what I do and why in one sentence: "I'm connecting the values
+  to ACF fields because you'll want to edit them later", not "The values are connected
+  to ACF fields so they stay editable".
 - Asks are direct: "Could you share the page list…", "Can I see your current setup first?"
 - Ground every expertise claim in a real project or in something observed on the
   client's site or references.
 - Bold the diagnosis phrase, not the whole sentence.
-- **End the sentence on what we do.** No tail that explains why or argues against
-  something nobody suggested: ", so…", "so that…", "before anything…", "…and not Y",
-  "instead of…", "which means…", including "X, not shrunken Y" contrasts.
-  Test: cover the tail. If the client still gets everything they need, cut it. If the
-  reason matters, give it its own short sentence or lead with it.
-  "I'll design tablet and mobile too, so they get real layouts and not shrunken desktop
-  ones" → "I'll design tablet and mobile layouts too."
-  "Custom design in Figma before anything gets built" → "It starts with a custom design
-  in Figma."
+- **Writing style (applies to every client-facing text):**
+  - Write in first person as "I do this". Add a reason only when the client needs it
+    and only with "because" in the same sentence ("I anonymise the database because it
+    holds your customers' details"). Leave it out when the client's question already
+    makes the reason obvious.
+  - Never use passive voice or make an inanimate thing the subject that acts
+    ("Payments stay in test mode", "The database is anonymised"). Make me the one doing
+    it ("I keep payments in test mode").
+  - Never end a sentence with a contrast tail like ", not a copy of production" or
+    ", not just X".
+  - Never put a comma before "and" or "or".
+  - "I do this because…" as one thought. "Because" is the only way to add a reason.
+    ", so…", "so that…", "which means…" and "…and not Y" are never used.
+  - Keep paragraphs to one or two lines so the reader can scan them. Break long answers
+    into several short paragraphs.
 - Callouts sparingly: recommendation (🔑), decision needed (⚠️), most comparable
   project (⭐), "already works, don't touch".
 - Write "we" for the studio and "I" for the person signing; keep it consistent.
@@ -276,8 +281,9 @@ in the cover-letter voice:
 - Formal intros ("Dear Client", "I'm excited to apply"), "I have X years of
   experience", "I'm confident my skills…", "Furthermore/Moreover/Additionally",
   "I look forward to hearing from you", "Please find attached".
-- Explanation tails at the end of a sentence (", so they get real layouts and not
-  shrunken desktop ones", "before anything gets built"). See the voice rules.
+- Reason or contrast tails other than "because" (", so…", "so that…", "which means…",
+  ", not a copy of production", "…and not Y"). A comma before "and" or "or". Passive
+  voice or a thing as the subject. See the writing style rules.
 - Opening with generic praise.
 - A problem without its business consequence.
 - A single bundled hours/price number.

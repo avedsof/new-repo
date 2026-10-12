@@ -119,9 +119,9 @@ deliverable the estimate doesn't cover. Example:
 
 > You'll get one Figma link with three homepage concepts, each in desktop and mobile, with
 > the key buttons and form states laid out beside them. When you review, tell us which one
-> feels most like you, and feel free to mix ("the hero from 2 with the colours from 1").
-> Comment in Figma or reply by message, whichever is easier. Two consolidated revision
-> rounds follow, then you approve the direction before we build the design system.
+> feels most like you and feel free to mix ("the hero from 2 with the colours from 1").
+> Comment in Figma or reply by message, whichever is easier. We then do two consolidated
+> revision rounds and you approve the direction before we build the design system.
 
 **WordPress approach:** default recommendation is a custom theme with ACF Pro and
 Gutenberg, not a page builder. Short `Decision | Why it matters for this client` table.
@@ -172,15 +172,21 @@ design system, templates), each needing an explicit "approved" or "changes reque
 - Direct, specific, numbers over adjectives, confident but not salesy.
 - Short declarative verdicts ("I'd restructure." "This is where most of the gain sits.").
 - Bold the diagnosis phrase, not the whole sentence.
-- **End the sentence on what we do.** No tail that explains why or argues against
-  something nobody suggested: ", so…", "so that…", "before anything…", "…and not Y",
-  "instead of…", "which means…", including "X, not shrunken Y" contrasts.
-  Test: cover the tail. If the client still gets everything they need, cut it. If the
-  reason matters, give it its own short sentence or lead with it.
-  "I'll design tablet and mobile too, so they get real layouts and not shrunken desktop
-  ones" → "I'll design tablet and mobile layouts too."
-  "Custom design in Figma before anything gets built" → "It starts with a custom design
-  in Figma."
+- **Writing style (applies to every client-facing text):**
+  - Write in first person as "I do this". Add a reason only when the client needs it
+    and only with "because" in the same sentence ("I anonymise the database because it
+    holds your customers' details"). Leave it out when the client's question already
+    makes the reason obvious.
+  - Never use passive voice or make an inanimate thing the subject that acts
+    ("Payments stay in test mode", "The database is anonymised"). Make me the one doing
+    it ("I keep payments in test mode").
+  - Never end a sentence with a contrast tail like ", not a copy of production" or
+    ", not just X".
+  - Never put a comma before "and" or "or".
+  - "I do this because…" as one thought. "Because" is the only way to add a reason.
+    ", so…", "so that…", "which means…" and "…and not Y" are never used.
+  - Keep paragraphs to one or two lines so the reader can scan them. Break long answers
+    into several short paragraphs.
 - Callouts sparingly: recommendation (🔑), decision needed (⚠️), phase headers,
   "already works, don't touch".
 
@@ -196,5 +202,6 @@ each tied to the client's stated goal) → **Bottom line** in one paragraph.
 - Give a single bundled hours/price number.
 - Paste principles or setup blocks that don't answer this client's problems.
 - Skip the questions section.
-- End a sentence with an explanation tail (", so…", "before anything gets built",
-  "…and not shrunken desktop ones"). See Tone.
+- Reason or contrast tails other than "because" (", so…", "so that…", "which means…",
+  ", not a copy of production", "…and not Y"). A comma before "and" or "or". Passive
+  voice or a thing as the subject. See the writing style rules.

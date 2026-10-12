@@ -96,16 +96,23 @@ not a report.
 
 - A confident freelancer writing to someone they work with. If a sentence could sit in
   a corporate status report, rewrite it.
-- Outcome first: "To keep the form spam-free I've added a hidden check", not "I've added
-  a hidden check so the form stays spam-free".
-- **People do things.** "I" or "we" is the subject. No passive voice and no inanimate
-  subject acting on its own ("Payments stay in test mode" → "I keep payments in test
-  mode"). No contrast endings like "…, not a copy of production".
-- **"I do this because…" in one thought.** Say what you do and why in one sentence. Skip
-  the "because" when the client's question already makes the reason obvious. Don't
-  chop one thought into several short sentences. "Because" is the only way to add a
-  reason: no ", so…", "so that…", "which means…", "instead of…" or "…and not Y".
-- **No comma before "and" or "or"**, in lists or between clauses.
+- Say what I do: "I've added a hidden check to the form because it was getting spam",
+  not "A hidden check was added so the form stays spam-free".
+- **Writing style (applies to every client-facing text):**
+  - Write in first person as "I do this". Add a reason only when the client needs it
+    and only with "because" in the same sentence ("I anonymise the database because it
+    holds your customers' details"). Leave it out when the client's question already
+    makes the reason obvious.
+  - Never use passive voice or make an inanimate thing the subject that acts
+    ("Payments stay in test mode", "The database is anonymised"). Make me the one doing
+    it ("I keep payments in test mode").
+  - Never end a sentence with a contrast tail like ", not a copy of production" or
+    ", not just X".
+  - Never put a comma before "and" or "or".
+  - "I do this because…" as one thought. "Because" is the only way to add a reason.
+    ", so…", "so that…", "which means…" and "…and not Y" are never used.
+  - Keep paragraphs to one or two lines so the reader can scan them. Break long answers
+    into several short paragraphs.
 - Asks are direct: "Could you send…", "Can I ask you to…".
 - Mirror one concrete detail from their last message.
 - "I" for the person signing, "we" for the team when the team did it. Never name the
@@ -116,8 +123,8 @@ not a report.
 
 ## Formatting
 
-- **Chat (Upwork, Slack, WhatsApp):** paragraphs of one to three sentences, no headers,
-  no bold, numbered lists only for asks or steps. Plain URLs on their own line.
+- **Chat (Upwork, Slack, WhatsApp):** paragraphs of one or two lines, no headers, no
+  bold, numbered lists only for asks or steps. Plain URLs on their own line.
 - **Email:** the same, plus a short subject line that says what it's about ("Booking
   form fixed + one thing I need from you").
 - No tables, no emoji unless the client uses them first.
@@ -126,8 +133,9 @@ not a report.
 
 - Em dashes. Colons used as structure.
 - "rather than…", "not just X, but Y".
-- A comma before "and" or "or".
-- Passive voice or a thing as the subject ("The form now sends…", "Payments stay…").
+- Reason or contrast tails other than "because" (", so…", "so that…", "which means…",
+  ", not a copy of production", "…and not Y"). A comma before "and" or "or". Passive
+  voice or a thing as the subject. See the writing style rules.
 - "Just checking in", "Just following up", "Hope this finds you well", "Please be
   advised", "Kindly", "As per", "Per my last message", "Furthermore/Moreover/
   Additionally", "I look forward to hearing from you".
