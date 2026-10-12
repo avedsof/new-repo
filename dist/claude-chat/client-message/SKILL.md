@@ -60,14 +60,14 @@ Lead with what it means for the client, then the term only if they need it to ac
 
 | The team says | The client reads |
 |---|---|
-| "Deployed to staging" | "It's ready to review on the test copy of the site: [link]" |
+| "Deployed to staging" | "I've put it on the test copy of the site for you to review: [link]" |
 | "Cleared the cache / CDN" | "If you don't see the change yet, refresh the page or give it a few minutes" |
-| "Plugin conflict after the WP update" | "A WordPress update broke the booking form. It's fixed and I've tested it" |
+| "Plugin conflict after the WP update" | "I've fixed the booking form after a WordPress update broke it and tested it end to end" |
 | "Need DNS access / an A record" | "Could you give me access to your domain settings at [registrar]? I need to point the domain to the new site" |
-| "301s set up" | "Old links now take people to the right new pages" |
-| "LCP down from 4.3 s to 2.1 s" | "The homepage now shows its main content in about 2 seconds on a phone, down from over 4" |
-| "API returns 429" | "The booking system limits how many requests we can send at once, so I've spaced them out" |
-| "Hotfix pushed to prod" | "Fixed on the live site" |
+| "301s set up" | "I've pointed your old links to the right new pages" |
+| "LCP down from 4.3 s to 2.1 s" | "I've got the homepage showing its main content in about 2 seconds on a phone, down from over 4" |
+| "API returns 429" | "I've spaced out the requests to the booking system because it only accepts a few at a time" |
+| "Hotfix pushed to prod" | "I've fixed it on the live site" |
 
 - Keep numbers, names and links exact. Round only for readability ("about 2 seconds").
 - A tool or setting name stays only when the client has to find or click it, written
@@ -102,9 +102,14 @@ not a report.
   a corporate status report, rewrite it.
 - Outcome first: "To keep the form spam-free I've added a hidden check", not "I've added
   a hidden check so the form stays spam-free".
-- **End the sentence on what we do.** No tail that explains why or argues against
-  something nobody suggested: ", so…", "so that…", "before anything…", "…and not Y",
-  "instead of…", "which means…". Test: cover the tail. If nothing is lost, cut it.
+- **People do things.** "I" or "we" is the subject. No passive voice and no inanimate
+  subject acting on its own ("Payments stay in test mode" → "I keep payments in test
+  mode"). No contrast endings like "…, not a copy of production".
+- **"I do this because…" in one thought.** Say what you do and why in one sentence. Skip
+  the "because" when the client's question already makes the reason obvious. Don't
+  chop one thought into several short sentences. "Because" is the only way to add a
+  reason: no ", so…", "so that…", "which means…", "instead of…" or "…and not Y".
+- **No comma before "and" or "or"**, in lists or between clauses.
 - Asks are direct: "Could you send…", "Can I ask you to…".
 - Mirror one concrete detail from their last message.
 - "I" for the person signing, "we" for the team when the team did it. Never name the
@@ -115,8 +120,8 @@ not a report.
 
 ## Formatting
 
-- **Chat (Upwork, Slack, WhatsApp):** short paragraphs, no headers, no bold, numbered
-  lists only for asks or steps. Plain URLs on their own line.
+- **Chat (Upwork, Slack, WhatsApp):** paragraphs of one to three sentences, no headers,
+  no bold, numbered lists only for asks or steps. Plain URLs on their own line.
 - **Email:** the same, plus a short subject line that says what it's about ("Booking
   form fixed + one thing I need from you").
 - No tables, no emoji unless the client uses them first.
@@ -125,6 +130,8 @@ not a report.
 
 - Em dashes. Colons used as structure.
 - "rather than…", "not just X, but Y".
+- A comma before "and" or "or".
+- Passive voice or a thing as the subject ("The form now sends…", "Payments stay…").
 - "Just checking in", "Just following up", "Hope this finds you well", "Please be
   advised", "Kindly", "As per", "Per my last message", "Furthermore/Moreover/
   Additionally", "I look forward to hearing from you".
@@ -153,11 +160,11 @@ Message:
 
 Hi Sarah,
 
-Quick update on the site. After this week's WordPress update the booking form stopped working for a short time. It's fixed now, and I've tested three bookings end to end.
+Quick update on the site. When I updated WordPress this week the booking form stopped working for a short time but I've fixed it and tested three bookings end to end.
 
-The fix is temporary because it holds the calendar plugin on an older version. We can either swap it for a better-supported plugin, which is about 2 to 3 hours ($50 to $75), or wait for its developers to release a fix. I'd swap it. A well-supported plugin is much less likely to break bookings on the next update.
+For now I've held the calendar plugin on its older version because the new one clashes with the update. I'd spend about 2 to 3 hours ($50 to $75) swapping it for a better-supported plugin because I don't want the next update to break bookings again. We can also wait for its developers to fix it if you'd rather hold off.
 
-One thing I need from you. Could you add me to your Cloudflare account? Caching there makes the pages load faster, and I'd like to set it up.
+One thing I need from you. Could you add me to your Cloudflare account? I'd like to set up caching there to make your pages load faster.
 
 Thanks and hope to talk more soon,
 Yulia
