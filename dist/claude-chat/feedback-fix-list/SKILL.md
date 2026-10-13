@@ -1,0 +1,140 @@
+---
+name: feedback-fix-list
+description: Turn client feedback (Figma comments plus client messages) into one Feedback record and a linked fix list in the project's Notion page, with screenshots grouped by concept or screen, and a draft reply to the client. Also re-syncs a round later, adding new comments and marking tasks whose Figma comments were resolved. Use when asked to gather, collect, log or sort client feedback or Figma comments, make a fix list or task list from feedback, or update/sync an existing feedback round. Not for writing proposals or RFPs.
+---
+
+# Feedback → fix list
+
+Claude chat version of the feedback-fix-list skill from the avedsof/new-repo repository.
+Needs the Notion connector. The Figma connector adds frame screenshots. Figma comments
+aren't readable through the connector, so the user pastes them (or exports them).
+
+One **Feedback record** = one round of client feedback (one review of one deliverable).
+Each action from it becomes a row in **Tasks**, linked back to the record.
+Reference round: https://app.notion.com/p/3f2bd8b60a63815eb6c8f1a6e21fdd9d
+(Miss Money Savvy, Phase 2 concepts, round 1).
+
+## Inputs
+
+1. **Project page** in Notion, under Prjcts (`https://app.notion.com/p/db2bd8b60a638250956c81112ca8257c`).
+   It holds the Figma link (usually a "Figma" tab), the brief, and the two inline
+   databases below. Ask for the page if the user didn't name the project.
+2. **Figma file key**, from the Figma link on the project page or the user's message
+   (`figma.com/design/<fileKey>/...`; for a branch URL use the branch key).
+3. **Figma comments**, pasted by the user: for each one the author, date, text, the
+   frame it sits on and, when possible, its link (right-click the comment → Copy link).
+   The comment ID is the number after `#` in that link. If the user hasn't pasted them,
+   ask for them before anything else.
+4. **Client messages**, if any: pasted by the user, or in the client's page/tab. Treat
+   them as comments without a screenshot (Source = the channel).
+5. **Phase and round**: from the RFP phases on the project page and the existing
+   Feedback records (next round = highest existing + 1 for the same phase).
+
+## Databases (per project, inline on the project page)
+
+Fetch both schemas before writing. If they're missing, create them with exactly this
+schema, then add the relation from Tasks.
+
+**Feedback**: `Name` title · `Status` status (Not started / In progress / Done) ·
+`date` date · `Actions needed` text · `Phase` select (Phase 1 · UX audit, Phase 2 ·
+Homepage concepts, Phase 3 · Design system & templates) · `Verdict` select (Approved /
+Changes requested / Undecided) · `Waiting on` select (Client / Us) · `Comment count`
+number · `Resolved in Figma` checkbox · `Tasks` (relation, synced from Tasks).
+
+**Tasks**:
+```sql
+CREATE TABLE ("Task" TITLE, "Status" STATUS,
+  "Feedback" RELATION('<feedback data source id>', DUAL 'Tasks'),
+  "Concept" SELECT(<one option per concept/screen>, 'All concepts':gray),
+  "Device" SELECT('Desktop', 'Mobile', 'Both':gray),
+  "Type" SELECT('Fix':orange, 'Keep':green, 'Explore':blue, 'Decision':red),
+  "Scope" SELECT('In scope':green, 'Needs estimate':yellow, 'Out of scope':red),
+  "Owner" PEOPLE, "Client quote" RICH_TEXT, "Figma comment ID" RICH_TEXT,
+  "Figma link" URL, "Resolved in Figma" CHECKBOX, "Created" CREATED_TIME)
+```
+Add new Concept options with `ALTER COLUMN` when a project has other concepts or screens.
+
+## Steps: new round
+
+1. **Find what's already captured.** Query Tasks for every `Figma comment ID`. These are
+   skipped so nothing is logged twice.
+2. **Collect comments and screenshots.** Number the pasted comments in date order and
+   drop any whose ID is already in Tasks. For each frame that has comments, call the
+   Figma connector's `get_screenshot` once. Look at every screenshot and check what each
+   comment talks about. The screenshots have no pins, so in the record write where on
+   the frame the comment sits ("on the hero graphic, top right").
+3. **Group by concept or screen** using the frame names (`Concept 1 · Desktop`, …).
+   Flag comments that are pinned on one concept but talk about others or the whole page.
+   Only include comments from the client; skip our own and replies that only say thanks.
+4. **Screenshots in Notion**: attach each frame screenshot to the record if the Notion
+   connector offers a file upload or attachment tool. Otherwise put the Figma frame link
+   under each comment instead and tell the user the images are missing.
+5. **Create the Feedback record** in that project's Feedback database:
+   - Name `<Phase short> · <deliverable> — round <n> feedback`, icon 💬.
+   - Properties: Status Not started, date = date of the comments, Phase, Verdict
+     (Approved only if they said so; Undecided when they didn't pick a direction;
+     otherwise Changes requested), Waiting on (Client if we need an answer before
+     working, else Us), Comment count, Resolved in Figma unticked, Actions needed = one
+     line, blocker first.
+   - Body, in order:
+     1. Red ⚠️ callout for any **blocker** (no pick, contradicting comments, missing info).
+     2. Source line: count, author, time range, Figma page link.
+     3. Green ✅ callout linking the Tasks database: "fix list lives there".
+     4. **Signal at a glance** table: Concept · 👍 Liked · 👎 Concerns · Read.
+     5. Blue 💡 callout with **our read**, labelled as not confirmed by the client.
+     6. One `##` section per concept (frame links under the heading), one `###` per
+        comment: `<circled n> <topic> — <device>`, the client's exact words as a quote,
+        the screenshot, then plain bullets of the actions (no checkboxes: Tasks is the
+        tracker).
+     7. **Open questions for the client**.
+     8. **Draft message to the client** (gray ✉️ callout).
+6. **Create one Task per action**, linked to the record: Type (Fix / Keep for things they
+   liked / Explore / Decision), Concept, Device, Scope (`Needs estimate` for anything
+   that may exceed the agreed hours, e.g. motion, new pages), Client quote (only the
+   relevant sentence), Figma comment ID, Figma link (the comment link). Several tasks can
+   share one comment ID. Add a `Decision` task for each blocker.
+7. **Verify**: fetch the record back; check that images rendered and the task count
+   matches the Tasks relation.
+
+## Steps: sync an existing round
+
+1. Ask the user which comments they resolved in Figma since the last round (or for a
+   fresh paste of the open comments; anything missing from it counts as resolved).
+2. For each task whose comment is resolved, tick `Resolved in Figma`.
+   Don't change the task's Status: resolving a comment in Figma isn't the same as the fix
+   being done. Say which ones changed.
+3. When every task of a round is ticked, tick the record's `Resolved in Figma`.
+4. New comments (not in Tasks) go into a **new round** record, unless the user says they
+   belong to the open one; then append sections and tasks there.
+
+## Draft message to the client
+
+Short, friendly, in the user's casual voice. Thank them, ask the one thing that blocks
+the work first (e.g. which concept is the base), give our recommendation with the
+reason, list in one sentence what we'll change once they answer, and ask about anything
+that may change scope. Never say a scope item is included or quote hours. The message
+is a draft for the user; never send it.
+
+The draft message, the "our read" callout and the action bullets follow the writing style:
+
+- Write in first person as "I do this". Add a reason only when the client needs it and
+  only with "because" in the same sentence ("I anonymise the database because it holds
+  your customers' details"). Leave it out when the client's question already makes the
+  reason obvious.
+- Never use passive voice or make an inanimate thing the subject that acts ("Payments
+  stay in test mode", "The database is anonymised"). Make me the one doing it ("I keep
+  payments in test mode").
+- Never end a sentence with a contrast tail like ", not a copy of production" or
+  ", not just X".
+- Never put a comma before "and" or "or".
+- "I do this because…" as one thought. "Because" is the only way to add a reason.
+  ", so…", "so that…", "which means…" and "…and not Y" are never used.
+- Keep paragraphs to one or two lines so the reader can scan them. Break long answers
+  into several short paragraphs.
+
+## Missing or conflicting input
+
+- No Figma connector → build the record from the pasted comments with frame links and no screenshots.
+- A comment's frame doesn't map to a concept → put it under "General" and say so.
+- Comments contradict each other → quote both under the blocker callout.
+- Don't copy credentials from the project page into any record.
