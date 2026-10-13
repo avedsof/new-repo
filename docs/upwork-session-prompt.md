@@ -13,11 +13,12 @@ Set up my Upwork → Notion → client-message workflow for this session.
 - Ask me before every Notion write. Show what you'll change first.
 - Write every client draft with the client-message skill and the rules in CLAUDE.md.
 
-**1. Check the account**
-Call list_accounts and tell me which Upwork account is connected. Our bids in Notion
-(Upwork Bids → "Upwork Profile") come from Yulia, Andrew, Polina, Shevk and Nastya.
-If the connected account isn't the profile the client talks to, stop and tell me. Don't
-read another account's rooms instead.
+**1. Use the agency account**
+Call list_accounts and use the **Academ Web Solutions** agency account (role FL_AGENCY,
+org_uid 796767847795224576) for every Upwork call. Its rooms cover the agency's
+freelancers (Yulia, Andrew, Polina). Sergey Cheverda's personal freelancer account only
+holds his own old chats. If a client from Notion has no room in the agency view, tell me
+which Upwork profile the bid came from (Upwork Bids → "Upwork Profile") and skip them.
 
 **2. Link clients to their chat rooms**
 For each record in Clients (collection://3ebbd8b6-0a63-8052-8f6a-000bb28c7a6f) with an
@@ -42,7 +43,7 @@ For each client, read:
 
 **4. Output per client**
 - Name and one line on where things stand.
-- The draft between two `---` lines, signed with the name on that Upwork profile.
+- The draft between two `---` lines, signed by whoever from our side has been writing in that room (Yulia, Andrew or Polina).
 - "Check before sending": placeholders, facts I need to confirm, anything you left out.
 Start with the clients who've waited longest.
 
