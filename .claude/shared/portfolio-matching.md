@@ -6,6 +6,23 @@ Notion (the old Portfolio.html export is no longer used).
 - Portfolio database (every project): `collection://2bdbd8b6-0a63-817a-86bf-000b152c4a85`
 - Case studies database (in-depth write-ups for the best projects):
   `collection://850bd8b6-0a63-830c-adb5-87c54d079654`
+- Work Log (small wins the team logs through a form, under Lab):
+  `collection://08345e17-1f97-4c08-a478-f5f086380ed9`
+
+## Work Log
+
+Search it alongside Portfolio in every selection pass. Filter on **Capability** first
+(the client problem), then **Stack** and **Industry**.
+
+- Use only entries where "Can we mention it publicly?" is "Yes", or "Only without the
+  client's name" with the client described, never named.
+- Prefer entries with a Proof link or Proof files. One without proof can support a
+  sentence in the approach, never a portfolio case of its own.
+- **Bid line** is an AI-written draft. Rewrite it in the letter's voice and check it
+  against "Tell the story" before using it.
+- A Work Log entry is a supporting detail inside a case or the approach ("we recently
+  set up automatic deploys with rollback on a Laravel platform"). It doesn't replace a
+  live link.
 
 ## Fields to query (see docs/portfolio-schema.md)
 
