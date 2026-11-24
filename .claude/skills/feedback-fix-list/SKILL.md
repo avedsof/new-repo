@@ -116,6 +116,23 @@ reason, list in one sentence what we'll change once they answer, and ask about a
 that may change scope. Never say a scope item is included or quote hours. The message
 is a draft for the user; never send it.
 
+The draft message, the "our read" callout and the action bullets follow the writing style:
+
+- Write in first person as "I do this". Add a reason only when the client needs it and
+  only with "because" in the same sentence ("I anonymise the database because it holds
+  your customers' details"). Leave it out when the client's question already makes the
+  reason obvious.
+- Never use passive voice or make an inanimate thing the subject that acts ("Payments
+  stay in test mode", "The database is anonymised"). Make me the one doing it ("I keep
+  payments in test mode").
+- Never end a sentence with a contrast tail like ", not a copy of production" or
+  ", not just X".
+- Never put a comma before "and" or "or".
+- "I do this because…" as one thought. "Because" is the only way to add a reason.
+  ", so…", "so that…", "which means…" and "…and not Y" are never used.
+- Keep paragraphs to one or two lines so the reader can scan them. Break long answers
+  into several short paragraphs.
+
 ## Missing or conflicting input
 
 - No Figma access → ask for the file link or comments pasted; still build the record.

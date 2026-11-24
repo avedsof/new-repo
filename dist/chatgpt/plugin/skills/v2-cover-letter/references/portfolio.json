@@ -1,0 +1,2242 @@
+{
+ "snapshot": "2026-11-24",
+ "source": "Notion Portfolio database",
+ "projects": [
+  {
+   "project": "8BoxwoodLane",
+   "live": "https://8boxwoodlane.wp4u.link/",
+   "figma": "https://www.figma.com/proto/aobH12e90epCxE0mSehwNI/8-BOXWOOD-LANE?node-id=257-1684&t=wyDrcri8QKg6GIrv-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=257%3A1684&show-proto-sidebar=1",
+   "github": null,
+   "engagement": "Design + build",
+   "redesign": false,
+   "deliverables": [
+    "Figma designs",
+    "Live website"
+   ],
+   "pages_designed": [
+    "Full site"
+   ],
+   "stack": [
+    "ACF",
+    "Custom theme",
+    "Gutenberg"
+   ],
+   "features": [],
+   "industry": [
+    "professional services",
+    "lifestyle"
+   ],
+   "proof_level": "Live",
+   "story": null,
+   "context": null,
+   "design_notes": null,
+   "dev_notes": null,
+   "showcase_frames": null,
+   "bid": "⚡️ 8BoxwoodLane — creative agency website creation\nhttps://8boxwoodlane.wp4u.link/\nFigma: https://www.figma.com/proto/aobH12e90epCxE0mSehwNI/8-BOXWOOD-LANE?node-id=257-1684&t=wyDrcri8QKg6GIrv-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=257%3A1684&show-proto-sidebar=1",
+   "has_case_study": false
+  },
+  {
+   "project": "Adalysis Home page Redesign Concepts",
+   "live": null,
+   "figma": "https://www.figma.com/design/VMrnmhXXIELsvUVBN16TSW/Adalysis---Home-page-concepts?node-id=1-4&t=auQE1GKyBCFUUaRd-1",
+   "github": null,
+   "engagement": "Concept / test task",
+   "redesign": false,
+   "deliverables": [
+    "Figma designs",
+    "Home concepts"
+   ],
+   "pages_designed": [
+    "Home page",
+    "Landing page"
+   ],
+   "stack": [],
+   "features": [],
+   "industry": [
+    "software / SaaS"
+   ],
+   "proof_level": "Concept",
+   "story": null,
+   "context": "All 5 concepts were built on the same content and the same product truth. What changed each time was how much of the page carried the argument and how much of it carried the interface. That was the point: give the client a few genuinely different layouts to react to instead of 5 variations of one idea.\n\nKeeping the spine fixed was deliberate. It meant the client was comparing visual language and layout logic each time instead of comparing content, so feedback came back about direction rather than wording.\n\n\nWhat changed between them was one decision: how early and how literally the product interface appears, and whether the page's rhythm is carried by the brand or by the software.",
+   "design_notes": "⚡️ Adalysis Home page Redesign Concepts — design direction concepts for client exploration and brand perception refinement\n\nFigma: https://www.figma.com/file/Adalysis-Home-Page-Redesignhttps://adalysis.com/",
+   "dev_notes": null,
+   "showcase_frames": null,
+   "bid": "⚡️ Adalysis - SaaS PPC Copilot tool where I designed multiple home page concepts as part of a brand redesign\n\nFigma:  https://www.figma.com/design/VMrnmhXXIELsvUVBN16TSW/Adalysis---Home-page-concepts?m=auto&t=1rSMkJxQ3KCkVN2l-6\n\nhttps://adalysis.com/",
+   "has_case_study": false
+  },
+  {
+   "project": "Ana San Sebastian",
+   "live": "https://anasansebastian.wp4u.link/",
+   "figma": "https://www.figma.com/design/EEhT6TjtQzk4hYodEqwGiG/ANA-SAN-SEBASTIÁN?node-id=1-2&t=JZdeVCUasvKeLzKs-1",
+   "github": null,
+   "engagement": "Design + build",
+   "redesign": true,
+   "deliverables": [
+    "Figma designs",
+    "Live website",
+    "Brand identity"
+   ],
+   "pages_designed": [
+    "Full site"
+   ],
+   "stack": [
+    "ACF",
+    "Custom theme"
+   ],
+   "features": [],
+   "industry": [
+    "real estate",
+    "lifestyle",
+    "hospitality"
+   ],
+   "proof_level": "Live",
+   "story": null,
+   "context": null,
+   "design_notes": "https://www.figma.com/design/EEhT6TjtQzk4hYodEqwGiG/ANA-SAN-SEBASTIÁN?node-id=1-2&t=JZdeVCUasvKeLzKs-1",
+   "dev_notes": null,
+   "showcase_frames": null,
+   "bid": "Ana San Sebastian. Website for a real estate agency specializing in developing regenerative estates for individuals and investment groups\n\nhttps://anasansebastian.wp4u.link/\n\nFigma: https://www.figma.com/design/EEhT6TjtQzk4hYodEqwGiG/ANA-SAN-SEBASTIÁN?node-id=1-2&t=JZdeVCUasvKeLzKs-1",
+   "has_case_study": true
+  },
+  {
+   "project": "Apex Motion Studio",
+   "live": null,
+   "figma": "https://www.figma.com/design/HtVEpKpGihBUN5KM5CBjS4/Apex-Motion-Films---Mustafa-Production?node-id=0-1&t=Qin8TR02CPhejCLw-1",
+   "github": null,
+   "engagement": "Design only",
+   "redesign": false,
+   "deliverables": [
+    "Figma designs",
+    "Brand identity"
+   ],
+   "pages_designed": [
+    "Home page",
+    "Full site"
+   ],
+   "stack": [],
+   "features": [],
+   "industry": [],
+   "proof_level": "Not live",
+   "story": null,
+   "context": null,
+   "design_notes": null,
+   "dev_notes": null,
+   "showcase_frames": null,
+   "bid": "Apex Motion Studio - website design for a European production studio. \n\nFigma: https://www.figma.com/design/HtVEpKpGihBUN5KM5CBjS4/Apex-Motion-Films---Mustafa-Production?node-id=0-1&t=Qin8TR02CPhejCLw-1",
+   "has_case_study": false
+  },
+  {
+   "project": "Application form plugin for persowerk",
+   "live": "apply.persowerk.com",
+   "figma": null,
+   "github": null,
+   "engagement": "Custom plugin / integration",
+   "redesign": false,
+   "deliverables": [
+    "WordPress plugin"
+   ],
+   "pages_designed": [],
+   "stack": [],
+   "features": [],
+   "industry": [
+    "software / SaaS",
+    "professional services"
+   ],
+   "proof_level": "Live",
+   "story": null,
+   "context": null,
+   "design_notes": "Plugin for a candidacy form application that generates a CV-like document for administrator approval before publishing. apply.persowerk.com",
+   "dev_notes": "Here I created a plugin for a candidacy form application/registration process that generates a CV-like document on the backend for the administrator to approve for publishing on the website or not",
+   "showcase_frames": null,
+   "bid": "⚡️ Application form plugin for persowerk — a candidacy form application that generates a CV-like document for administrative approval before publishing\nhttps://apply.persowerk.com",
+   "has_case_study": false
+  },
+  {
+   "project": "Artiseme",
+   "live": "https://artiseme.com/",
+   "figma": "https://www.figma.com/design/CTLNxzKFf2BW90PzMejnzR/ARTISEME?node-id=0-1&t=ffdXU0KzRGhpCrYd-1",
+   "github": null,
+   "engagement": "Design + build",
+   "redesign": false,
+   "deliverables": [
+    "Figma designs",
+    "Live website"
+   ],
+   "pages_designed": [
+    "Full site",
+    "PDP",
+    "Catalog / PLP"
+   ],
+   "stack": [
+    "ACF",
+    "Custom theme",
+    "Gutenberg"
+   ],
+   "features": [
+    "E-commerce"
+   ],
+   "industry": [
+    "e-commerce",
+    "lifestyle"
+   ],
+   "proof_level": "Live",
+   "story": null,
+   "context": null,
+   "design_notes": "Website creation for a home decor designer goods e-commerce store. https://artiseme.com/",
+   "dev_notes": "Website creation for a home decor designer goods e-commerce store",
+   "showcase_frames": null,
+   "bid": "⚡️ Artiseme — website creation for a home decor designer goods e-commerce store\nhttps://artiseme.com/\nFigma: https://www.figma.com/design/CTLNxzKFf2BW90PzMejnzR/ARTISEME?node-id=0-1&t=ffdXU0KzRGhpCrYd-1",
+   "has_case_study": false
+  },
+  {
+   "project": "Autodex",
+   "live": "https://autodex.wp4u.link/",
+   "figma": "https://www.figma.com/design/ZU1KLceRacZeEy5WXt9U74/Autodex-Bidding-Platform?node-id=0-1&t=TTlj2coco5dmKAv2-1",
+   "github": null,
+   "engagement": "Design + build",
+   "redesign": false,
+   "deliverables": [
+    "Figma designs",
+    "Live website"
+   ],
+   "pages_designed": [
+    "Full site"
+   ],
+   "stack": [
+    "ACF",
+    "Gutenberg"
+   ],
+   "features": [
+    "Bidding",
+    "Third-party API sync"
+   ],
+   "industry": [
+    "automotive"
+   ],
+   "proof_level": "Live",
+   "story": null,
+   "context": null,
+   "design_notes": "Autodex is a multi-role bidding platform featuring complex availability rules and gated visibility for various users, with Stripe Connect flows and role-based access. https://autodex.wp4u.link/",
+   "dev_notes": "Built a multi-role bidding platform with complex availability rules and gated visibility for different users, including Stripe Connect flows and role-based access.",
+   "showcase_frames": null,
+   "bid": "⚡️ Autodex — multi-role bidding platform featuring complex availability rules and gated visibility for users\nhttps://autodex.wp4u.link/",
+   "has_case_study": false
+  },
+  {
+   "project": "Autotech",
+   "live": "https://www.autotech-park.com/",
+   "figma": "https://www.figma.com/design/xx10zJViNbjwONGaxFOSpM/Autotech-park?node-id=1-15&t=fKMXdavtO8PVhxBG-1",
+   "github": null,
+   "engagement": "Design only",
+   "redesign": true,
+   "deliverables": [
+    "Figma designs"
+   ],
+   "pages_designed": [
+    "Full site",
+    "PDP",
+    "Catalog / PLP"
+   ],
+   "stack": [],
+   "features": [
+    "E-commerce",
+    "For Shopify"
+   ],
+   "industry": [
+    "lifestyle",
+    "e-commerce",
+    "automotive"
+   ],
+   "proof_level": "Live",
+   "story": null,
+   "context": null,
+   "design_notes": "Redesign for a web shop selling car parts. Link to site",
+   "dev_notes": "Redesign for a web shop selling car parts",
+   "showcase_frames": null,
+   "bid": "⚡️ Autotech — redesign for a web shop selling car parts\nhttps://www.autotech-park.com/\nFigma: https://www.figma.com/design/xx10zJViNbjwONGaxFOSpM/Autotech-park?node-id=1-15&t=fKMXdavtO8PVhxBG-1",
+   "has_case_study": false
+  },
+  {
+   "project": "Avetex Furniture",
+   "live": "https://avetexfurniture.com/",
+   "figma": null,
+   "github": null,
+   "engagement": "Build only (client design)",
+   "redesign": true,
+   "deliverables": [
+    "Live website",
+    "WordPress plugin"
+   ],
+   "pages_designed": [],
+   "stack": [
+    "WooCommerce",
+    "Elementor"
+   ],
+   "features": [
+    "E-commerce",
+    "Third-party API sync"
+   ],
+   "industry": [
+    "furniture",
+    "e-commerce"
+   ],
+   "proof_level": "Live",
+   "story": "San Francisco Bay Area furniture retailer moving a 20-year-old custom .NET store to WooCommerce. Built a server-side import plugin that migrated 4,193 products and 7 GB of images while preserving legacy URLs, the options configurator and pricing, and replaced stored card data with Stripe authorize-and-capture plus Stripe Tax.",
+   "context": null,
+   "design_notes": null,
+   "dev_notes": null,
+   "showcase_frames": null,
+   "bid": "⚡️ Avetex Furniture. \n\nA 20‑year‑old custom .NET store was migrated to WooCommerce, building a server‑side import plugin that moved 4,193 products and 7 GB of images while preserving legacy URLs, the options configurator, pricing, and upgrading payment processing to Stripe authorize‑and‑capture plus Stripe Tax. This enabled a modern e‑commerce experience for the San Francisco Bay Area furniture retailer.\n\nhttps://avetexfurniture.com/",
+   "has_case_study": true
+  },
+  {
+   "project": "B12 Coffee Webshop",
+   "live": "https://b12.coffee/",
+   "figma": "https://www.figma.com/design/5Fn9bNltWgSM13XPpjRnY3/B12-Coffee-Webshop?node-id=0-1&t=ZlCOXUWfeCQjAYhb-1",
+   "github": null,
+   "engagement": "Design + build",
+   "redesign": false,
+   "deliverables": [
+    "Figma designs",
+    "Live website",
+    "Brand identity"
+   ],
+   "pages_designed": [
+    "Full site",
+    "Home page",
+    "PDP",
+    "Catalog / PLP"
+   ],
+   "stack": [
+    "Figma",
+    "For Shopify"
+   ],
+   "features": [
+    "E-commerce",
+    "For Shopify"
+   ],
+   "industry": [
+    "food",
+    "e-commerce",
+    "lifestyle"
+   ],
+   "proof_level": "Live",
+   "story": "Specialty coffee roastery in Düsseldorf selling single-origin coffee, equipment and ceramics, running barista and latte art courses and supplying cafés and offices as a wholesale partner. I designed the brand identity and the whole site, then built it on Shopify. The brand work set the b12 wordmark and the Specialty Coffee Roastery emblem, the forest green and cream palette and the Outfit type system, and a UI component library the rest of the site is assembled from. The shop covers the catalogue with filters, product pages for coffee and for merchandise, quick view, cart and search. The coffee school area carries the course range and a single course page, where enrolment runs through a course request that captures the course, the preferred date and the group size, with private event and gift flows as their own modals. The B2B area presents custom roasts, barista training, verified origin reports and equipment advice, with a partnership application and wholesale pricing behind a separate sign-up. Venue and catering, membership, sustainability and the legal pages complete the site, all designed at 1920, 1440, 744 and 360.",
+   "context": "Coffee roastery with three audiences on one site: retail customers buying beans and ceramics, people booking barista and latte art courses, and cafés and offices applying for wholesale terms. The structure had to let each of the three find their own path without crowding the others.",
+   "design_notes": "Brand identity and full site design for b12, a specialty coffee roastery in Düsseldorf. Logotype and emblem, forest green and cream palette, Outfit type system and a UI component library, then the shop, coffee school with course enrolment, B2B wholesale, venue and catering, membership and sustainability areas across four breakpoints.",
+   "dev_notes": "Shopify development of the b12 storefront from the Figma designs: catalogue and filtering, product pages for coffee and merchandise, quick view, cart and search, plus the course request, private event, gift and B2B partnership application forms.",
+   "showcase_frames": "Upwork case boards (💼 - Upwork case page in the B12 file): Thumbnail https://www.figma.com/design/5Fn9bNltWgSM13XPpjRnY3/B12-Coffee-Webshop?node-id=7062-28311 | Course enrolment components https://www.figma.com/design/5Fn9bNltWgSM13XPpjRnY3/B12-Coffee-Webshop?node-id=7063-29465",
+   "bid": null,
+   "has_case_study": false
+  },
+  {
+   "project": "Bad Mechanic",
+   "live": "https://badmechanic.com/",
+   "figma": "https://www.figma.com/design/y5jPolDp2eEYND5UX1RmKk",
+   "github": null,
+   "engagement": null,
+   "redesign": false,
+   "deliverables": [
+    "Live website"
+   ],
+   "pages_designed": [
+    "Full site"
+   ],
+   "stack": [
+    "ACF",
+    "Gutenberg",
+    "Custom theme",
+    "WooCommerce"
+   ],
+   "features": [
+    "E-commerce",
+    "Custom theme"
+   ],
+   "industry": [
+    "automotive",
+    "e-commerce"
+   ],
+   "proof_level": "Live",
+   "story": "Community website for car and motorcycle enthusiasts in the founder's area. I converted a vibecoded Astro build into a custom ACF Pro + Gutenberg theme with subtle animations, a story submission form with photo and video uploads, privacy options and consent, a Garage Wall with award tiers and a WooCommerce merch store. I used Codex throughout.",
+   "context": null,
+   "design_notes": null,
+   "dev_notes": null,
+   "showcase_frames": null,
+   "bid": "⚡️ Bad Mechanic.\n\nA community website for car and motorcycle enthusiasts. I took a vibecoded Astro build to a custom ACF Pro + Gutenberg theme with a story submission form with media uploads, a Garage Wall with award tiers and a WooCommerce merch store, using Codex throughout.\n\nhttps://badmechanic.com/",
+   "has_case_study": true
+  },
+  {
+   "project": "Barca Camps",
+   "live": "https://swbarcad.wp4u.link/",
+   "figma": "https://www.figma.com/design/c6wFpI3VAMX2rCt4GyTTXE/fcbarcelona?node-id=253-6688&t=ewjvSwj3hJfRiIP9-1",
+   "github": null,
+   "engagement": "Design + build",
+   "redesign": false,
+   "deliverables": [
+    "Figma designs",
+    "Live website"
+   ],
+   "pages_designed": [
+    "Full site"
+   ],
+   "stack": [
+    "ACF",
+    "Gutenberg"
+   ],
+   "features": [
+    "E-commerce",
+    "Membership"
+   ],
+   "industry": [
+    "sport"
+   ],
+   "proof_level": "Live",
+   "story": null,
+   "context": null,
+   "design_notes": "Barca Camps: website for a company that holds Barcelona-sponsored football camps for kids in Switzerland.",
+   "dev_notes": "website for a company that holds Barcelona-sponsored football camps for kids in Switzerland managing functionality for parent-child profile creation and comprehensive logic for registering a kid for a camp with reporting tools, user/child profiles, dynamic available spots logic, deposit payments, etc.",
+   "showcase_frames": null,
+   "bid": "⚽️ Barca Camps — website for Barcelona-sponsored football camps for kids in Switzerland, enabling parent-child profile creation and comprehensive camp registration logic with reporting tools, user profiles, dynamic spot availability, and deposit payments.\nhttps://swbarcad.wp4u.link/\n\nFigma: https://www.figma.com/design/c6wFpI3VAMX2rCt4GyTTXE/fcbarcelona?node-id=253-6688&t=ewjvSwj3hJfRiIP9-1",
+   "has_case_study": false
+  },
+  {
+   "project": "Beauty Label",
+   "live": "https://beautylabel.us/",
+   "figma": null,
+   "github": null,
+   "engagement": "Design only",
+   "redesign": false,
+   "deliverables": [
+    "Figma designs",
+    "Live website"
+   ],
+   "pages_designed": [
+    "Full site",
+    "Home page",
+    "Catalog / PLP"
+   ],
+   "stack": [
+    "Figma"
+   ],
+   "features": [
+    "Booking",
+    "E-commerce"
+   ],
+   "industry": [
+    "lifestyle",
+    "e-commerce"
+   ],
+   "proof_level": "Live",
+   "story": "Beauty Label is a Brooklyn hair salon led by Mariana Sidey that calls itself a collective of artists and specialises in luxury blonde colour, extensions and general hair services. The site has to carry two jobs at once, filling the chair and moving retail product, so I designed the booking path as the spine and let the shop sit alongside it instead of competing with it. Appointment booking repeats down the page with a free 30-minute consultation as the low-commitment entry for first-time clients, and the salon retail shelf presents professional lines from Kérastase, Aveda, Moroccanoil and Oribe across new arrivals, tools, shampoo and conditioner, treatments and oils. Stylist profiles, partner brands and testimonials carry the credibility a colour specialist is judged on.",
+   "context": "A salon that sells appointments and retail product from the same page, where the booking path had to stay dominant while the shop still functioned. Luxury blonde colour is a trust purchase, so stylist profiles, partner brands and reviews carry as much weight as the services list.",
+   "design_notes": "Website design for Beauty Label, a luxury blonde and hair extension salon in Brooklyn. Booking-led structure with a free consultation entry point, a salon retail shelf for professional haircare brands, stylist profiles and testimonials. Live: https://beautylabel.us/",
+   "dev_notes": null,
+   "showcase_frames": null,
+   "bid": null,
+   "has_case_study": false
+  },
+  {
+   "project": "Beeline",
+   "live": "[https://www.beeline.com/](https://www.beeline.com/)",
+   "figma": null,
+   "github": null,
+   "engagement": "Custom plugin / integration",
+   "redesign": false,
+   "deliverables": [
+    "WordPress plugin"
+   ],
+   "pages_designed": [],
+   "stack": [],
+   "features": [],
+   "industry": [
+    "software / SaaS"
+   ],
+   "proof_level": "Live",
+   "story": null,
+   "context": null,
+   "design_notes": "⚡️ Beeline — platform that supports staffing suppliers and companies to manage shift workers\nhttps://joinedup.com/\n\nFigma: https://www.figma.com/design/PCnX070d5RXgBd0zEEBN0f/JOINEDUP?node-id=2-22&t=7rc1Y1QaPxEicK3f-0",
+   "dev_notes": "Beeline - https://www.beeline.com/ - platform  that supports staffing suppliers and companies to manage shift workers. (The stack used  NodeJS, Express, ReactJS, DynamoDB, PostgreSQL, Redux, GatsbyJS, NextJS, NestJS)\n\n- It provides user dashboard to track performance, compliance and analytics of the employees' work.\n- It allows workers to post their availability throughout the week, confirm/decline shifts\n- Allows employers to browse workers by various criteria and allocate jobs, reorganise shifts and communicate bookings via email and in-app messaging.\n- System also allows to handle overtime and bonuses, perform rate updates, enable workers to record expenses, etc.",
+   "showcase_frames": null,
+   "bid": "⚡️ Beeline - https://www.beeline.com/\n\nplatform that supports staffing suppliers and companies to manage shift workers\n\n\n\nOverview: Beeline provides a comprehensive user dashboard to track performance, compliance, and analytics of employees' work. Workers can post their availability, confirm or decline shifts, while employers can browse workers by various criteria, allocate jobs, and communicate bookings via email and in-app messaging. The system also manages overtime, bonuses, rate updates, and allows workers to record expenses.",
+   "has_case_study": false
+  },
+  {
+   "project": "Booking Pool&Beach",
+   "live": "https://booking.poolandbeach.zp.ua",
+   "figma": null,
+   "github": null,
+   "engagement": "Design + build",
+   "redesign": false,
+   "deliverables": [
+    "Figma designs",
+    "Live website",
+    "WordPress plugin"
+   ],
+   "pages_designed": [
+    "Full site"
+   ],
+   "stack": [],
+   "features": [
+    "Booking",
+    "Third-party API sync"
+   ],
+   "industry": [
+    "lifestyle"
+   ],
+   "proof_level": "Live",
+   "story": null,
+   "context": null,
+   "design_notes": "Booking platform for reserving houses, sunbeds, and beds with an interactive map and a workspace for the complex administrator.",
+   "dev_notes": "Booking platform for reservations on React, Laravel",
+   "showcase_frames": null,
+   "bid": "⚡️ Booking Pool&Beach — luxury lifestyle booking platform for reservations built on React and Laravel\nhttps://booking.poolandbeach.zp.ua\n\nFigma: Not provided",
+   "has_case_study": false
+  },
+  {
+   "project": "Chaicare",
+   "live": null,
+   "figma": null,
+   "github": null,
+   "engagement": "Design + build",
+   "redesign": false,
+   "deliverables": [],
+   "pages_designed": [],
+   "stack": [],
+   "features": [],
+   "industry": [
+    "healthcare"
+   ],
+   "proof_level": "Not live",
+   "story": null,
+   "context": null,
+   "design_notes": null,
+   "dev_notes": null,
+   "showcase_frames": null,
+   "bid": "⚡️ Website for a network of urgent care facilities - https://www.chaicare.org/",
+   "has_case_study": false
+  },
+  {
+   "project": "CSV Product Import Plugin",
+   "live": null,
+   "figma": null,
+   "github": null,
+   "engagement": "Custom plugin / integration",
+   "redesign": false,
+   "deliverables": [
+    "WordPress plugin"
+   ],
+   "pages_designed": [],
+   "stack": [
+    "ACF",
+    "WooCommerce"
+   ],
+   "features": [
+    "E-commerce"
+   ],
+   "industry": [
+    "e-commerce",
+    "furniture"
+   ],
+   "proof_level": "Not live",
+   "story": null,
+   "context": null,
+   "design_notes": null,
+   "dev_notes": null,
+   "showcase_frames": null,
+   "bid": "⚡️ Custom CSV Product Import Plugin — a bespoke WooCommerce importer built for a furniture e-commerce store, handling supplier-specific CSV format where one row = one variation. Plugin groups rows into parent variable products, bulk-creates variations with per-variation image galleries, dynamic title switching on attribute change, and structured attribute blocks (properties / dimensions / packaging) rendered on the product card. Built with batch processing, progress tracking, and a pre-validation \"Check CSV\" step that reports structural issues and duplicates before touching the database.",
+   "has_case_study": true
+  },
+  {
+   "project": "Custom calculator - gates",
+   "live": "https://bms-schiebetore.de",
+   "figma": null,
+   "github": null,
+   "engagement": "Custom plugin / integration",
+   "redesign": false,
+   "deliverables": [
+    "WordPress plugin"
+   ],
+   "pages_designed": [],
+   "stack": [],
+   "features": [
+    "Calculator",
+    "E-commerce"
+   ],
+   "industry": [
+    "industrial",
+    "e-commerce"
+   ],
+   "proof_level": "Live",
+   "story": null,
+   "context": null,
+   "design_notes": "Custom calculator Woocommerce Fences Calculator. A custom variable product was created, which includes its own table of component prices (gate components) and generates product variations based on the selected gate parameters. This includes a custom price calculator and a custom shopping cart. Additionally, a component was developed to search for gates on the website by parameters (a separate custom calculator). An import feature for the price table and attributes for product variations was also developed.",
+   "dev_notes": "German gates shop with custom calculator",
+   "showcase_frames": null,
+   "bid": "⚡️ Custom calculator  — German gates shop with a custom calculator\nhttps://bms-schiebetore.de",
+   "has_case_study": false
+  },
+  {
+   "project": "DIT Plugin",
+   "live": null,
+   "figma": null,
+   "github": "https://github.com/andrewpuzyrevichG/-dit-integration",
+   "engagement": "Custom plugin / integration",
+   "redesign": false,
+   "deliverables": [
+    "WordPress plugin"
+   ],
+   "pages_designed": [],
+   "stack": [],
+   "features": [
+    "Subscriptions",
+    "Third-party API sync"
+   ],
+   "industry": [
+    "software / SaaS"
+   ],
+   "proof_level": "Not live",
+   "story": null,
+   "context": null,
+   "design_notes": "WordPress plugin for integration with custom Data Integrity Tool API, providing user registration, data encryption, user subscriptions, interaction with DIT API, and token-based logic for purchasing scans to scan videos for defects.",
+   "dev_notes": "WordPress plugin for integration with custom Data Integrity Tool API. The plugin provides user registration, data encryption, user subscriptions, interaction with DIT API and token-based logic allowing users to buy scans to use on an external tool for scanning videos for defects",
+   "showcase_frames": null,
+   "bid": "⚡️ DIT Plugin — WordPress plugin for integration with custom Data Integrity Tool API, offering user registration, data encryption, user subscriptions, and interaction with DIT API for scanning videos for defects.\n\nGithub: https://github.com/andrewpuzyrevichG/-dit-integration",
+   "has_case_study": false
+  },
+  {
+   "project": "Dosetest",
+   "live": "https://marisa.templweb.com/",
+   "figma": "https://www.figma.com/design/t8jbFLODVrt915DIn9AXaz/Dosetest?node-id=552-1302&t=j4kt9H2DbrmcTtEj-1",
+   "github": null,
+   "engagement": "Design + build",
+   "redesign": false,
+   "deliverables": [
+    "Figma designs",
+    "Live website"
+   ],
+   "pages_designed": [
+    "Full site"
+   ],
+   "stack": [
+    "ACF",
+    "Chart.js",
+    "Gutenberg",
+    "React"
+   ],
+   "features": [],
+   "industry": [
+    "healthcare",
+    "software / SaaS"
+   ],
+   "proof_level": "Live",
+   "story": null,
+   "context": null,
+   "design_notes": null,
+   "dev_notes": null,
+   "showcase_frames": null,
+   "bid": "⚡️ https://marisa.templweb.com/ - design and development of a website for an innovative and cost-effective drug testing kits\nFigma: https://www.figma.com/design/t8jbFLODVrt915DIn9AXaz/Dosetest?node-id=552-1302&t=j4kt9H2DbrmcTtEj-1",
+   "has_case_study": false
+  },
+  {
+   "project": "Dr Douglas Brown",
+   "live": "https://drdouglasbrown.com.au/",
+   "figma": "https://www.figma.com/design/Yzj3wZCw0tZdP6FC8BZAFI/Dr-Douglas-Brown?node-id=0-1&t=fkKOzkrVIrOnx70H-1",
+   "github": null,
+   "engagement": "Design + build",
+   "redesign": true,
+   "deliverables": [
+    "Figma designs",
+    "Live website",
+    "Brand identity"
+   ],
+   "pages_designed": [
+    "Landing page",
+    "Full site"
+   ],
+   "stack": [
+    "ACF",
+    "Custom theme",
+    "Gutenberg"
+   ],
+   "features": [],
+   "industry": [
+    "healthcare",
+    "professional services"
+   ],
+   "proof_level": "Live",
+   "story": null,
+   "context": null,
+   "design_notes": "Personal website for a private practice of an addiciton medicine specialist in Australia",
+   "dev_notes": null,
+   "showcase_frames": null,
+   "bid": "⚡️ Dr Douglas Brown. Design and development of a landing page for a private addiction‑medicine practice in Australia\n\nhttps://drdouglasbrown.com.au/\n\nFigma: https://www.figma.com/design/Yzj3wZCw0tZdP6FC8BZAFI/Dr-Douglas-Brown?node-id=0-1&t=fkKOzkrVIrOnx70H-1",
+   "has_case_study": false
+  },
+  {
+   "project": "Edumena",
+   "live": null,
+   "figma": "https://www.figma.com/design/a2BSv506l1pyIWetP8CuQV/Edumena?node-id=0-1&t=QoXPwKbkeaFcbb3M-1",
+   "github": null,
+   "engagement": "Design only",
+   "redesign": false,
+   "deliverables": [
+    "Figma designs"
+   ],
+   "pages_designed": [
+    "Landing page",
+    "Full site"
+   ],
+   "stack": [],
+   "features": [],
+   "industry": [
+    "e-learning",
+    "professional services",
+    "entertainment",
+    "software / SaaS"
+   ],
+   "proof_level": "Not live",
+   "story": null,
+   "context": null,
+   "design_notes": null,
+   "dev_notes": null,
+   "showcase_frames": null,
+   "bid": "⚡️ Edumena - SaaS e-learning platform for entrepreneurs who wish to launch their education courses\n\nhttps://www.figma.com/design/a2BSv506l1pyIWetP8CuQV/Edumena?node-id=0-1&t=QoXPwKbkeaFcbb3M-1",
+   "has_case_study": false
+  },
+  {
+   "project": "Elan",
+   "live": "https://thisiselan.com/",
+   "figma": "https://www.figma.com/design/HlneQjrRJYePjcG9KJSDth/%C3%89lan?node-id=0-1&t=2ijMLE2WNSu2fCUM-1",
+   "github": null,
+   "engagement": "Design + build",
+   "redesign": false,
+   "deliverables": [
+    "Figma designs",
+    "Live website",
+    "Brand identity"
+   ],
+   "pages_designed": [
+    "Home page",
+    "Full site"
+   ],
+   "stack": [
+    "ACF",
+    "Custom theme",
+    "Gutenberg"
+   ],
+   "features": [],
+   "industry": [
+    "lifestyle",
+    "healthcare"
+   ],
+   "proof_level": "Live",
+   "story": null,
+   "context": null,
+   "design_notes": "Creation of a WordPress website connected to Kalajbi for an Australian cosmetic injections school. Link to site",
+   "dev_notes": "Creation of a WordPress website connected to Kalajbi for an Australian cosmetic injections school",
+   "showcase_frames": null,
+   "bid": "⚡️ Elan — creation of a WordPress website connected to Kajabi for an Australian cosmetic injections school\nhttps://thisiselan.com/\n\nFigma: https://www.figma.com/design/HlneQjrRJYePjcG9KJSDth/Élan?node-id=0-1&t=2ijMLE2WNSu2fCUM-1",
+   "has_case_study": true
+  },
+  {
+   "project": "Emerem",
+   "live": "https://emerem.ua/",
+   "figma": "https://www.figma.com/proto/sFtxuXhN5TEr2t7rN98lnS/EMEREM-Tecnic-Web?node-id=137-1091&viewport=2997%2C96%2C0.35&t=lDguEo13ghhReOQp-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=137%3A1091&show-proto-sidebar=1&page-id=0%3A1",
+   "github": null,
+   "engagement": "Design + build",
+   "redesign": false,
+   "deliverables": [
+    "Figma designs",
+    "Live website",
+    "Brand identity"
+   ],
+   "pages_designed": [
+    "Full site"
+   ],
+   "stack": [
+    "Custom theme",
+    "WooCommerce"
+   ],
+   "features": [
+    "E-commerce"
+   ],
+   "industry": [
+    "industrial",
+    "e-commerce"
+   ],
+   "proof_level": "Live",
+   "story": null,
+   "context": null,
+   "design_notes": "https://www.figma.com/proto/sFtxuXhN5TEr2t7rN98lnS/EMEREM-Tecnic-Web?node-id=137-1091&viewport=2997%2C96%2C0.35&t=lDguEo13ghhReOQp-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=137%3A1091&show-proto-sidebar=1&page-id=0%3A1",
+   "dev_notes": null,
+   "showcase_frames": null,
+   "bid": "⚡️ Emerem. Design and development of an industrial equipment web store \n\nhttps://emerem.ua/\n\nFigma: https://www.figma.com/proto/sFtxuXhN5TEr2t7rN98lnS/EMEREM-Tecnic-Web?node-id=137-1091&viewport=2997%2C96%2C0.35&t=lDguEo13ghhReOQp-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=137%3A1091&show-proto-sidebar=1&page-id=0%3A1",
+   "has_case_study": false
+  },
+  {
+   "project": "EX-PACK",
+   "live": "https://expack.de/",
+   "figma": null,
+   "github": null,
+   "engagement": "Design only",
+   "redesign": false,
+   "deliverables": [
+    "Figma designs",
+    "Live website"
+   ],
+   "pages_designed": [
+    "Full site",
+    "Home page"
+   ],
+   "stack": [
+    "Figma"
+   ],
+   "features": [],
+   "industry": [
+    "industrial",
+    "professional services"
+   ],
+   "proof_level": "Live",
+   "story": "EX-PACK (Expeditions- und Verpackungsgesellschaft mbH) is an industrial logistics provider in Emmerich am Rhein, founded in 1988, handling fulfilment, warehousing, export packaging and transport for manufacturers shipping by air, sea, road and intermodal routes. The business sells services and not products, so the whole site has to earn a consultation request instead of a checkout. I designed the site around that single conversion: four service teasers off the hero, the eight industries they serve each routed to their own contact, a four-step explanation of how an order actually runs and an FAQ covering lead times, oversize freight, customs, insurance and damage, with the credibility figures of 35+ years, 40+ countries, 6,000 m² of warehouse and 1,000+ completed projects carried through the page. German-language site.",
+   "context": "Services business with no shop and no catalogue, so every section has to move the visitor toward a Beratung anfordern consultation request and the non-binding quote that follows it. Eight industry segments needed their own entry point without turning the homepage into a directory. The live build appears to run on WordPress with Elementor, though that was not confirmed.",
+   "design_notes": "Website design for EX-PACK, an industrial logistics and export packaging company in Emmerich am Rhein serving manufacturing, machinery, automation, food processing equipment, engineering, OEM, heavy industry and automotive suppliers. Section-based layout built around photography and short video, with a single consultation request as the conversion goal. German-language. Live: https://expack.de/",
+   "dev_notes": null,
+   "showcase_frames": null,
+   "bid": null,
+   "has_case_study": false
+  },
+  {
+   "project": "Flexcyble",
+   "live": "https://www.flexcyble.com/",
+   "figma": "https://www.figma.com/design/DM9WYquRKkglh4x3UOl42a/Flexyble-redesign?node-id=0-1&t=IwN1CBcoUQLDNqRq-1",
+   "github": null,
+   "engagement": "Design + build",
+   "redesign": false,
+   "deliverables": [
+    "Figma designs",
+    "Live website"
+   ],
+   "pages_designed": [
+    "Landing page"
+   ],
+   "stack": [],
+   "features": [],
+   "industry": [
+    "software / SaaS",
+    "professional services"
+   ],
+   "proof_level": "Live",
+   "story": null,
+   "context": null,
+   "design_notes": "Created a landing for a company specializing in helping ISVs and channel partners scale their businesses on leading cloud platforms.",
+   "dev_notes": "I created a landing for a company specializes in helping ISVs and channel partners scale their businesses on leading cloud platforms",
+   "showcase_frames": null,
+   "bid": "⚡️ Flexcyble — landing page for a company specializing in helping ISVs and channel partners scale their businesses on leading cloud platforms\nhttps://www.flexcyble.com/\n\nFigma: https://www.figma.com/design/DM9WYquRKkglh4x3UOl42a/Flexyble-redesign?node-id=0-1&t=IwN1CBcoUQLDNqRq-1",
+   "has_case_study": false
+  },
+  {
+   "project": "GoodHemp",
+   "live": "https://www.goodhemp.com/",
+   "figma": "https://www.figma.com/proto/iqnYmBx6VjMHnR1h4dT2Bb/Good-Hemp?page-id=0%3A1&node-id=147-47609&viewport=161%2C117%2C0.17&t=0vloSd85BYzok31U-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=147%3A47609&show-proto-sidebar=1",
+   "github": null,
+   "engagement": "Design + build",
+   "redesign": true,
+   "deliverables": [
+    "Figma designs",
+    "Brand identity",
+    "Live website"
+   ],
+   "pages_designed": [
+    "Landing page"
+   ],
+   "stack": [],
+   "features": [
+    "E-commerce"
+   ],
+   "industry": [
+    "healthcare",
+    "e-commerce",
+    "lifestyle"
+   ],
+   "proof_level": "Live",
+   "story": null,
+   "context": "Goodhemp brand wanted to lean more toward fashion & food and new home page needed to communicate it. The focus also was on mobile-first approach and layout that accommodates Tiktok/Instagram content",
+   "design_notes": "⚡️ GoodHemp — Mobile-first, Tiktok and Instagram-friendly website revamp for a brand in the fashion & food industry\n\nFigma: https://www.figma.com/proto/iqnYmBx6VjMHnR1h4dT2Bb/Good-Hemp?page-id=0%3A1&node-id=147-47609&viewport=161%2C117%2C0.17&t=0vloSd85BYzok31U-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=147%3A47609&show-proto-sidebar=1\nhttps://www.goodhemp.com/",
+   "dev_notes": "Mobile-first, Tiktok and Instagram-friendly website revamp for a brand working in fashion & food industry.",
+   "showcase_frames": null,
+   "bid": "⚡️ GoodHemp — mobile-first, TikTok and Instagram-friendly website revamp for a brand working in fashion & food industry\nhttps://www.goodhemp.com/\nFigma: https://www.figma.com/proto/iqnYmBx6VjMHnR1h4dT2Bb/Good-Hemp?page-id=0%3A1&node-id=147-47609&viewport=161%2C117%2C0.17&t=0vloSd85BYzok31U-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=147%3A47609&show-proto-sidebar=1",
+   "has_case_study": false
+  },
+  {
+   "project": "GROSSWOHNBAU",
+   "live": "https://gross-wohnbau.wp4u.link/",
+   "figma": "https://www.figma.com/design/ByL0eLUZTeUMbtZK3U6nZE/Gross-Wohnbau?node-id=1-46&t=hWNVSAGbcqhocOOw-1",
+   "github": null,
+   "engagement": "Design + build",
+   "redesign": true,
+   "deliverables": [
+    "Figma designs",
+    "Live website"
+   ],
+   "pages_designed": [
+    "Home page",
+    "Landing page",
+    "Full site"
+   ],
+   "stack": [
+    "ACF",
+    "Gutenberg"
+   ],
+   "features": [],
+   "industry": [
+    "industrial",
+    "professional services"
+   ],
+   "proof_level": "Live",
+   "story": null,
+   "context": null,
+   "design_notes": "Website redesign for a construction company that lies between construction and project development. Figma link: https://www.figma.com/design/ByL0eLUZTeUMbtZK3U6nZE/Gross-Wohnbau?node-id=1-46&t=hWNVSAGbcqhocOOw-1",
+   "dev_notes": "Website redesign for a construction company that lies between construction and project development",
+   "showcase_frames": null,
+   "bid": "⚡️ GROSSWOHNBAU — website redesign for a construction company that lies between construction and project development\nhttps://gross-wohnbau.wp4u.link/\nFigma: https://www.figma.com/design/ByL0eLUZTeUMbtZK3U6nZE/Gross-Wohnbau?node-id=1-46&t=hWNVSAGbcqhocOOw-1",
+   "has_case_study": false
+  },
+  {
+   "project": "Hajarb48",
+   "live": "http://hajarb48.com/",
+   "figma": "https://www.figma.com/design/FSHnkVpCtXXOv8NSGrBhSP/hajarb48?node-id=1-4&t=4AUS5vnKeNxWJDsg-1",
+   "github": null,
+   "engagement": "Design only",
+   "redesign": false,
+   "deliverables": [
+    "Figma designs",
+    "Brand identity",
+    "App / dashboard design"
+   ],
+   "pages_designed": [
+    "Home page",
+    "Full site",
+    "App screens"
+   ],
+   "stack": [],
+   "features": [],
+   "industry": [
+    "professional services",
+    "lifestyle"
+   ],
+   "proof_level": "Live",
+   "story": null,
+   "context": null,
+   "design_notes": null,
+   "dev_notes": null,
+   "showcase_frames": null,
+   "bid": "⚡️ Hajarb48: Design of a website and mobile app for an Arabic tour agency organizing trips to Hajj and Umrah\n\nhttps://hajarb48.com/\n\nFigma: https://www.figma.com/design/FSHnkVpCtXXOv8NSGrBhSP/hajarb48?node-id=1-4&t=4AUS5vnKeNxWJDsg-1",
+   "has_case_study": false
+  },
+  {
+   "project": "Hammasoskari",
+   "live": "https://hammasoskari.fi/",
+   "figma": null,
+   "github": null,
+   "engagement": "Build only (client design)",
+   "redesign": false,
+   "deliverables": [
+    "Live website"
+   ],
+   "pages_designed": [],
+   "stack": [],
+   "features": [
+    "Third-party API sync"
+   ],
+   "industry": [
+    "healthcare"
+   ],
+   "proof_level": "Live",
+   "story": null,
+   "context": null,
+   "design_notes": "Dental clinic website with a booking system powered by AssisDent API featuring React widget for appointment timeslots.",
+   "dev_notes": "Dental clinic website I built with a booking system powered by AssisDent API featuring React widget for appointments timeslots",
+   "showcase_frames": null,
+   "bid": "⚡️ Dental Clinic Website — Developed a site with a booking system using AssisDent API and a React widget for appointment timeslots\nhttps://hammasoskari.fi/",
+   "has_case_study": false
+  },
+  {
+   "project": "Hot Lake Springs",
+   "live": "https://hotlakespringsresort.com/",
+   "figma": "https://www.figma.com/design/eKue3LAWMPbbUBTeIjBSpT/hot-lakes-springs?node-id=1252-452&t=u8SM7fm0kq5XrgIw-1",
+   "github": null,
+   "engagement": "Design + build",
+   "redesign": false,
+   "deliverables": [
+    "Figma designs",
+    "Live website"
+   ],
+   "pages_designed": [
+    "Full site"
+   ],
+   "stack": [
+    "Custom theme",
+    "Gutenberg"
+   ],
+   "features": [
+    "Booking"
+   ],
+   "industry": [
+    "hospitality",
+    "lifestyle"
+   ],
+   "proof_level": "Live",
+   "story": null,
+   "context": null,
+   "design_notes": null,
+   "dev_notes": null,
+   "showcase_frames": null,
+   "bid": "⚡️ Hot Lake Springs — custom‑designed website for a historic hotel offering booking for lodge rooms and hot‑springs soaking\n\nhttps://hotlakespringsresort.com/\nFigma: https://www.figma.com/design/eKue3LAWMPbbUBTeIjBSpT/hot-lakes-springs?node-id=1252-452&t=u8SM7fm0kq5XrgIw-1",
+   "has_case_study": false
+  },
+  {
+   "project": "House of Edward",
+   "live": "https://premiersuite.com.au/",
+   "figma": "https://www.figma.com/design/NUNvpYHacmnywqyUAhHQq9/House-of-Edward?node-id=0-1&t=sLSOsJZlCAcp89Bs-1",
+   "github": null,
+   "engagement": "Design only",
+   "redesign": true,
+   "deliverables": [
+    "Figma designs"
+   ],
+   "pages_designed": [
+    "Full site"
+   ],
+   "stack": [],
+   "features": [
+    "E-commerce",
+    "For Shopify"
+   ],
+   "industry": [
+    "e-commerce",
+    "lifestyle"
+   ],
+   "proof_level": "Live",
+   "story": null,
+   "context": "House of Edward builds on the creative legacy of Luxotic, a designer home textile brand recognised for its richly patterned collections. After a period operating under the name Premier Suite, the brand was relaunched as House of Edward, marking a clear new chapter with a refined and focused identity. At its core, House of Edward is artisanal and personal. Designs are hand-painted and created in-house by the Sydney-based design team, giving each piece a bespoke quality that feels expressive yet considered — like elegant handwriting translated into textile form. House of Edward is a premium Australian home and lifestyle brand specialising in refined bed linen, cushions, wallpaper, and decorative homewares. The brand creates pieces that feel timeless, elegant, and calm, while still carrying a sense of joy and personality. House of Edward caters to a broad audience, from younger design-conscious customers to more mature homeowners who value quality, craftsmanship, and tasteful interiors.",
+   "design_notes": null,
+   "dev_notes": null,
+   "showcase_frames": null,
+   "bid": "⚡️ House of Edward. \n\nDesign engagement for a Shopify website to create full‑site Figma designs for an e-commerce and lifestyle brand, delivering a refined, artisanal identity as a part of a brand repositioning. \n\nLink: https://premiersuite.com.au/\n\nFigma:  https://www.figma.com/design/NUNvpYHacmnywqyUAhHQq9/House-of-Edward?node-id=0-1&t=sLSOsJZlCAcp89Bs-1",
+   "has_case_study": false
+  },
+  {
+   "project": "Huidkliniek Cosmed",
+   "live": null,
+   "figma": "https://www.figma.com/design/hRztS7LvNseOTEqzoe7Fm5/Huidkliniek-Cosmed?node-id=1-9&t=F6tovPFNCuqUfOR1-1",
+   "github": null,
+   "engagement": "Design only",
+   "redesign": false,
+   "deliverables": [
+    "Figma designs"
+   ],
+   "pages_designed": [
+    "Full site"
+   ],
+   "stack": [],
+   "features": [],
+   "industry": [
+    "healthcare"
+   ],
+   "proof_level": "Not live",
+   "story": null,
+   "context": null,
+   "design_notes": "⚡️ Huidkliniek Cosmed — multi-service skin clinic website\nhttps://huidkliniekcosmed.nl/\n\nFigma: https://www.figma.com/file/your-figma-link-here",
+   "dev_notes": "Multi-service skin clinic website",
+   "showcase_frames": null,
+   "bid": "⚡️ Huidkliniek Cosmed — multi-service skin clinic website\n\nFigma: https://www.figma.com/design/hRztS7LvNseOTEqzoe7Fm5/Huidkliniek-Cosmed?node-id=1-9&t=F6tovPFNCuqUfOR1-1",
+   "has_case_study": false
+  },
+  {
+   "project": "iDispatch",
+   "live": null,
+   "figma": "https://www.figma.com/design/zUJy2Nahmg0kwZFLWKM6Ik/iDispatch_Web-Mob?node-id=2-2&t=DazjFPrBwov3e2DG-1",
+   "github": null,
+   "engagement": "Design only",
+   "redesign": false,
+   "deliverables": [
+    "Figma designs",
+    "Brand identity",
+    "App / dashboard design"
+   ],
+   "pages_designed": [
+    "Full site",
+    "Dashboard"
+   ],
+   "stack": [],
+   "features": [
+    "Dashboard"
+   ],
+   "industry": [
+    "automotive",
+    "industrial"
+   ],
+   "proof_level": "Not live",
+   "story": null,
+   "context": null,
+   "design_notes": null,
+   "dev_notes": null,
+   "showcase_frames": null,
+   "bid": "⚡️ SaaS web app for management of staff drivers - https://www.figma.com/design/zUJy2Nahmg0kwZFLWKM6Ik/iDispatch_Web-Mob?node-id=2-2&t=DazjFPrBwov3e2DG-1",
+   "has_case_study": false
+  },
+  {
+   "project": "Infinite Equity Capital",
+   "live": null,
+   "figma": "https://www.figma.com/design/P4d8xiPNtOWIX1rH1N5Dhc/Infinite-Equity-Capital?node-id=1-5&t=2shWBrpkEyEPYkUy-1",
+   "github": null,
+   "engagement": "Concept / test task",
+   "redesign": true,
+   "deliverables": [
+    "Figma designs"
+   ],
+   "pages_designed": [
+    "Home page",
+    "Landing page"
+   ],
+   "stack": [],
+   "features": [],
+   "industry": [
+    "professional services",
+    "industrial"
+   ],
+   "proof_level": "Concept",
+   "story": null,
+   "context": null,
+   "design_notes": "⚡️ Infinite Equity Capital — corporate and industrial project\nFigma: https://www.figma.com/design/P4d8xiPNtOWIX1rH1N5Dhc/Infinite-Equity-Capital?node-id=1-5&t=2shWBrpkEyEPYkUy-1",
+   "dev_notes": null,
+   "showcase_frames": null,
+   "bid": "⚡️ Infinite Equity Capital — a redesign project focused on enhancing financial strategies of the real estet investment company through updated web presence\n\nFigma: https://www.figma.com/design/P4d8xiPNtOWIX1rH1N5Dhc/Infinite-Equity-Capital?node-id=1-5&t=2shWBrpkEyEPYkUy-1",
+   "has_case_study": false
+  },
+  {
+   "project": "Inkzu",
+   "live": "https://www.inkzu.com.au/",
+   "figma": "https://www.figma.com/design/SZiN6p7qu4zZyKvroHYvhO/ink.zu?node-id=175-1594&t=yP1uaad7xVa2od0v-4",
+   "github": null,
+   "engagement": "Design + build",
+   "redesign": true,
+   "deliverables": [
+    "Figma designs",
+    "Live website"
+   ],
+   "pages_designed": [
+    "Full site"
+   ],
+   "stack": [
+    "Elementor"
+   ],
+   "features": [],
+   "industry": [],
+   "proof_level": "Live",
+   "story": null,
+   "context": null,
+   "design_notes": "Elementor website redesign for a tattoo salon in Sydney",
+   "dev_notes": null,
+   "showcase_frames": null,
+   "bid": "⚡️ Inkzu - redesign of a website for a Sydney tattoo salon using Elementor\n https://www.inkzu.com.au/\nFigma: https://www.figma.com/design/SZiN6p7qu4zZyKvroHYvhO/ink.zu?node-id=175-1594&t=yP1uaad7xVa2od0v-4",
+   "has_case_study": false
+  },
+  {
+   "project": "KOLN FC fan shop",
+   "live": null,
+   "figma": "https://www.figma.com/proto/ljK5XOJHWL513fCYMLNFPM/FC-Koln?page-id=0%3A1&node-id=5-996&viewport=1507%2C514%2C0.12&t=S698HTdzJk1mJcqb-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=5%3A996",
+   "github": null,
+   "engagement": "Design only",
+   "redesign": false,
+   "deliverables": [
+    "Figma designs"
+   ],
+   "pages_designed": [
+    "Full site",
+    "Catalog / PLP"
+   ],
+   "stack": [],
+   "features": [
+    "E-commerce"
+   ],
+   "industry": [
+    "sport",
+    "lifestyle",
+    "e-commerce",
+    "entertainment"
+   ],
+   "proof_level": "Concept",
+   "story": null,
+   "context": null,
+   "design_notes": null,
+   "dev_notes": null,
+   "showcase_frames": null,
+   "bid": "⚡️ KOLN FC web shop: Figma prototype for a KOLN FC fan web shop concept: https://www.figma.com/proto/ljK5XOJHWL513fCYMLNFPM/FC-Koln?page-id=0%3A1&node-id=5-996&viewport=1507%2C514%2C0.12&t=S698HTdzJk1mJcqb-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=5%3A996",
+   "has_case_study": false
+  },
+  {
+   "project": "Koop Skincare Products Shop",
+   "live": null,
+   "figma": "https://www.figma.com/design/6B3UdxZTLpsEDS1DXnplUm/Koop?node-id=12-3&t=YiERe8HABRITrzPp-1",
+   "github": null,
+   "engagement": "Design + build",
+   "redesign": true,
+   "deliverables": [
+    "Figma designs"
+   ],
+   "pages_designed": [
+    "PDP",
+    "Catalog / PLP"
+   ],
+   "stack": [
+    "Custom theme",
+    "Elementor"
+   ],
+   "features": [],
+   "industry": [
+    "lifestyle",
+    "e-commerce",
+    "healthcare"
+   ],
+   "proof_level": "Not live",
+   "story": null,
+   "context": null,
+   "design_notes": "⚡️ Koop Skincare Products Shop — e-commerce platform for feminine healthcare and lifestyle products\n\nFigma: https://www.figma.com/design/6B3UdxZTLpsEDS1DXnplUm/Koop?node-id=12-3&t=YiERe8HABRITrzPp-1\nhttps://koopskincare.com/",
+   "dev_notes": null,
+   "showcase_frames": null,
+   "bid": "⚡️ Koop Skincare Products Shop — e-commerce platform focused on feminine health and lifestyle\n\nFigma: https://www.figma.com/design/6B3UdxZTLpsEDS1DXnplUm/Koop?node-id=12-3&t=YiERe8HABRITrzPp-1",
+   "has_case_study": false
+  },
+  {
+   "project": "Leopoldo Diving",
+   "live": "https://leopoldo.guide/",
+   "figma": "https://www.figma.com/design/TG3SfdZLRYLjXluksTAfjI/Leopoldo-Diving-landing-page?node-id=40-1498&p=f&t=Kloo2JZhpT2MaojR-0",
+   "github": null,
+   "engagement": "Design + build",
+   "redesign": false,
+   "deliverables": [
+    "Figma designs",
+    "Live website",
+    "Brand identity"
+   ],
+   "pages_designed": [
+    "Full site"
+   ],
+   "stack": [
+    "Custom theme"
+   ],
+   "features": [],
+   "industry": [
+    "sport",
+    "lifestyle"
+   ],
+   "proof_level": "Live",
+   "story": null,
+   "context": null,
+   "design_notes": "Creation of a website for freediving courses service. https://leopoldo.guide/",
+   "dev_notes": "Creation of a website for freediving courses service",
+   "showcase_frames": null,
+   "bid": "⚡️ Leopoldo Diving — creation of a website for freediving courses service\nhttps://leopoldo.guide/\n\nFigma: https://www.figma.com/design/TG3SfdZLRYLjXluksTAfjI/Leopoldo-Diving-landing-page?node-id=40-1498&p=f&t=Kloo2JZhpT2MaojR-0",
+   "has_case_study": false
+  },
+  {
+   "project": "LineSkip - Kiosk App",
+   "live": null,
+   "figma": "https://www.figma.com/design/jDDPy9gZ4ebikSc1gTgk5P/LineSkip---Kiosk-App?node-id=0-1&t=Ra3beV6JBJoE486r-1",
+   "github": null,
+   "engagement": "Design only",
+   "redesign": false,
+   "deliverables": [
+    "Figma designs",
+    "App / dashboard design"
+   ],
+   "pages_designed": [
+    "Full site",
+    "App screens"
+   ],
+   "stack": [],
+   "features": [],
+   "industry": [
+    "food"
+   ],
+   "proof_level": "Not live",
+   "story": null,
+   "context": null,
+   "design_notes": null,
+   "dev_notes": null,
+   "showcase_frames": null,
+   "bid": "⚡️ LineSkip - White Label Kiosk App design: https://www.figma.com/design/jDDPy9gZ4ebikSc1gTgk5P/LineSkip---Kiosk-App?node-id=0-1&t=Ra3beV6JBJoE486r-1",
+   "has_case_study": false
+  },
+  {
+   "project": "Lineskip Food Delivery App",
+   "live": "https://www.lineskipapp.com/store_front/load_store/TDJ5VGM2VkJwVHNXMkpSVEtuMWNKdz09",
+   "figma": "https://www.figma.com/design/ldjHRwvAxV5PiO6iPhWHBm/LineSkip---White-Label-Delivery-App?node-id=0-1&t=9wm3m9YOoIEiDHxp-1",
+   "github": null,
+   "engagement": "Design only",
+   "redesign": false,
+   "deliverables": [
+    "Figma designs",
+    "App / dashboard design"
+   ],
+   "pages_designed": [
+    "Full site",
+    "App screens"
+   ],
+   "stack": [],
+   "features": [],
+   "industry": [
+    "food"
+   ],
+   "proof_level": "Live",
+   "story": null,
+   "context": null,
+   "design_notes": null,
+   "dev_notes": null,
+   "showcase_frames": null,
+   "bid": "⚡️ Lineskip Food Delivery App — white‑label delivery solution design \n\nhttps://www.lineskipapp.com/store_front/load_store/TDJ5VGM2VkJwVHNXMkpSVEtuMWNKdz09\n\nFigma: https://www.figma.com/design/ldjHRwvAxV5PiO6iPhWHBm/LineSkip---White-Label-Delivery-App?node-id=0-1&t=9wm3m9YOoIEiDHxp-1",
+   "has_case_study": false
+  },
+  {
+   "project": "Local Links Guide",
+   "live": "https://locallinks.wp4u.link/",
+   "figma": "https://www.figma.com/design/rkHfw3bsLZsv4R3oVGuEEp/Local-Links-Guide--Copy-?node-id=1-3&t=90RfLRFcvX3OO2Qf-1",
+   "github": null,
+   "engagement": "Design + build",
+   "redesign": false,
+   "deliverables": [
+    "Figma designs",
+    "Live website"
+   ],
+   "pages_designed": [
+    "Full site"
+   ],
+   "stack": [
+    "ACF",
+    "Brevo",
+    "Elementor",
+    "The Events Calendar"
+   ],
+   "features": [],
+   "industry": [
+    "lifestyle",
+    "entertainment"
+   ],
+   "proof_level": "Live",
+   "story": null,
+   "context": null,
+   "design_notes": null,
+   "dev_notes": "⚡️ Local Links Guide — a scalable community events platform helping residents discover weekly things to do across multiple cities, each with dedicated landing pages, event calendars, rotating local deals, category browsing, and banner ad placements.\n\nBuilt on WordPress + Elementor Pro with a single shared events database filtered by city taxonomy, so adding new cities is a template duplication rather than a rebuild. Features include a front-end event submission form with draft/approval workflow, Stripe integration for featured placements and sponsored deals, and Brevo-connected email/SMS signup forms across hero, mid-page, and footer sections.",
+   "showcase_frames": null,
+   "bid": "https://locallinks.wp4u.link/:  multi-city event discovery platform built on WordPress + Elementor Pro, featuring a scalable city-page architecture, The Events Calendar integration with city-level taxonomies, a front-end event submission workflow with admin approval and AI-assisted event summary creation, Stripe payment integration for sponsored placements and local deals, and Brevo email/SMS signup flows. Built with reusable Elementor templates so new cities can be duplicated without rebuilding the system.\n\nFigma: https://www.figma.com/design/rkHfw3bsLZsv4R3oVGuEEp/Local-Links-Guide--Copy-?node-id=1-3&t=90RfLRFcvX3OO2Qf-1",
+   "has_case_study": true
+  },
+  {
+   "project": "MDesign Remodeling",
+   "live": null,
+   "figma": null,
+   "github": null,
+   "engagement": "Build only (client design)",
+   "redesign": true,
+   "deliverables": [
+    "Figma designs",
+    "Live website"
+   ],
+   "pages_designed": [],
+   "stack": [
+    "ACF",
+    "Gutenberg",
+    "Custom theme"
+   ],
+   "features": [
+    "Custom theme"
+   ],
+   "industry": [
+    "professional services",
+    "real estate"
+   ],
+   "proof_level": "Live",
+   "story": null,
+   "context": null,
+   "design_notes": null,
+   "dev_notes": null,
+   "showcase_frames": null,
+   "bid": "MDesign Remodeling. Website design and development for a general contractor company specializing in kitchens, bathrooms, ADUs, open layouts and home renovations. \n\nhttps://mdesignremodeling.com/\n\nFigma: https://www.figma.com/design/vH89Y1RXHjms67I3YBkqG7/MDesign-Remodeling?node-id=422-5689&t=2ETrzLpBIs33Xv9t-0",
+   "has_case_study": false
+  },
+  {
+   "project": "MEENZ",
+   "live": "https://meenz.co.uk/",
+   "figma": null,
+   "github": null,
+   "engagement": "Design + build",
+   "redesign": true,
+   "deliverables": [
+    "Figma designs",
+    "Live website"
+   ],
+   "pages_designed": [
+    "Full site"
+   ],
+   "stack": [
+    "ACF",
+    "Gutenberg"
+   ],
+   "features": [
+    "Job board",
+    "Listing / directory",
+    "Third-party API sync"
+   ],
+   "industry": [
+    "automotive",
+    "recruitment"
+   ],
+   "proof_level": "Live",
+   "story": null,
+   "context": null,
+   "design_notes": "Redesign for a Recruitment Agency. ACF Pro+Gutenberg, referral system, integration with Logic Melon into WP Job Board for automatic job listings creation.",
+   "dev_notes": "Redesign for a  Recruitment Agency",
+   "showcase_frames": null,
+   "bid": "⚡️ Meenz — comprehensive redesign for a British recruitment agency focused on style update and clear navigation aiming the target audience of middle-age car mechanics https://meenz.co.uk/\nFigma: https://www.figma.com/proto/UBuML5vtA9Nfn7WLICLVTI/MEENZ-Website?page-id=737%3A9871",
+   "has_case_study": true
+  },
+  {
+   "project": "Metaforma",
+   "live": "https://metaforma.io/en",
+   "figma": "https://www.figma.com/design/EErGyKz51fva4VK9ghSh2s/Metaforma?node-id=0-1&t=ZXe2dPKvjDawmK6F-1",
+   "github": null,
+   "engagement": "Build only (client design)",
+   "redesign": false,
+   "deliverables": [
+    "Figma designs",
+    "Live website"
+   ],
+   "pages_designed": [],
+   "stack": [],
+   "features": [
+    "LMS",
+    "Third-party API sync"
+   ],
+   "industry": [
+    "e-learning"
+   ],
+   "proof_level": "Live",
+   "story": null,
+   "context": null,
+   "design_notes": "⚡️ Metaforma = https://metaforma.io/en\n\n13-in-1 platform for training organizations and coaches\n\nFigma:\nhttps://www.figma.com/design/EErGyKz51fva4VK9ghSh2s/Metaforma?node-id=0-1&t=ZXe2dPKvjDawmK6F-1",
+   "dev_notes": "https://metaforma.io/en - was a huge 13-in-1 platform designed to assist training organizations and coaches in creating, managing, selling, automating, and scaling their services. It integrates tools such as website creation, customer relationship management (CRM), webinars, email marketing, e-learning spaces, automation, and social media management, all powered by artificial intelligence. I worked in the dedicated team as a full-stack developer with 2 others. Implemented live webinars using WebinarJam as a base and automatization for the selling processes.",
+   "showcase_frames": null,
+   "bid": "⚡️ Metaforma - https://metaforma.io/en\n\nThis build is a comprehensive 13-in-1 e-learning platform designed to assist training organizations and coaches in creating, managing, selling, automating, and scaling their services. It integrates various tools such as website creation, CRM, webinars, email marketing, e-learning spaces, automation, and social media management, all powered by artificial intelligence.\n\n\n\nFigma: https://www.figma.com/design/EErGyKz51fva4VK9ghSh2s/Metaforma?node-id=0-1&t=ZXe2dPKvjDawmK6F-1",
+   "has_case_study": false
+  },
+  {
+   "project": "Museum of Illusions",
+   "live": "https://vilnil.lt",
+   "figma": null,
+   "github": null,
+   "engagement": "Custom plugin / integration",
+   "redesign": false,
+   "deliverables": [
+    "WordPress plugin"
+   ],
+   "pages_designed": [],
+   "stack": [
+    "ACF",
+    "Custom theme",
+    "Gutenberg"
+   ],
+   "features": [
+    "Booking"
+   ],
+   "industry": [
+    "entertainment",
+    "lifestyle"
+   ],
+   "proof_level": "Live",
+   "story": null,
+   "context": null,
+   "design_notes": "For a museum dedicated to illusions, the project involved updating the ticketing system to enhance user experience. The sites (targeting different markets) now integrate WooCommerce for ticket sales with region-specific adjustments. Key improvements include a custom enhancement to the \"foo events\" plugin that allows:• Booking for specific time slots (previously only the day was available).• Editing the number of available tickets per time slot.• Automatically closing ticket sales a predetermined number of hours before the next slot.• Dividing visiting times into 20-minute intervals.• Offering two ticket types: regular and gift.Additionally, integrations with Mailchimp and Sendinblue ensure consistent email marketing across all regional sites.",
+   "dev_notes": "Website for museum, ticketing system, booking",
+   "showcase_frames": null,
+   "bid": "⚡️ Museum of Illusions. A website built for a Lithuanian museum built with ACF Pro + Gutenberg. Features interactive design and a comprehensive ticketing system built on top of FooEvents plugin \nhttps://vilnil.lt",
+   "has_case_study": false
+  },
+  {
+   "project": "Mystea",
+   "live": "https://mystea.ro/",
+   "figma": "https://www.figma.com/design/PCnX070d5RXgBd0zEEBN0f/MYSTEA?node-id=2-22&t=7rc1Y1QaPxEicK3f-0",
+   "github": null,
+   "engagement": "Design + build",
+   "redesign": false,
+   "deliverables": [
+    "Figma designs",
+    "Live website"
+   ],
+   "pages_designed": [
+    "Full site"
+   ],
+   "stack": [
+    "Custom theme"
+   ],
+   "features": [
+    "E-commerce",
+    "For Shopify"
+   ],
+   "industry": [
+    "lifestyle"
+   ],
+   "proof_level": "Live",
+   "story": null,
+   "context": null,
+   "design_notes": "Created a feminine website for a web shop selling beauty supplement product",
+   "dev_notes": "Website creation for a Beauty Supplement Web Shop",
+   "showcase_frames": null,
+   "bid": "⚡️ Mystea — website creation for a Beauty Supplement Web Shop\nhttps://mystea.ro/\nFigma: https://www.figma.com/design/PCnX070d5RXgBd0zEEBN0f/MYSTEA?node-id=2-22&t=7rc1Y1QaPxEicK3f-0",
+   "has_case_study": false
+  },
+  {
+   "project": "Oreon Properties",
+   "live": null,
+   "figma": null,
+   "github": null,
+   "engagement": "Design + build",
+   "redesign": false,
+   "deliverables": [],
+   "pages_designed": [
+    "Full site"
+   ],
+   "stack": [
+    "ACF",
+    "Custom theme"
+   ],
+   "features": [
+    "Listing / directory",
+    "Third-party API sync"
+   ],
+   "industry": [
+    "real estate"
+   ],
+   "proof_level": "Live",
+   "story": null,
+   "context": null,
+   "design_notes": null,
+   "dev_notes": null,
+   "showcase_frames": null,
+   "bid": "⚡️ Oreon Properties. A commercial real estate brokerage in Belgium with offices in Herentals, Antwerp and Hasselt. I built the Whise API integration that pulls their listings from the Whise CRM into WordPress, with search by rent or buy, property type (commercial, industrial, office, land) and location by postal code grouped by municipality, across Dutch and English versions.\n\nLive link: https://oreon-properties.be/nl/",
+   "has_case_study": false
+  },
+  {
+   "project": "ORIGINAE",
+   "live": "https://originaestudio.com/",
+   "figma": "https://www.figma.com/design/fzhnjapCWSXJAD79281xoZ/Originae-DEV?m=auto&t=RMcRtXMpgkWrNG4W-6",
+   "github": null,
+   "engagement": "Design + build",
+   "redesign": false,
+   "deliverables": [
+    "Figma designs",
+    "Live website"
+   ],
+   "pages_designed": [
+    "Full site"
+   ],
+   "stack": [],
+   "features": [
+    "E-commerce",
+    "Third-party API sync"
+   ],
+   "industry": [
+    "lifestyle",
+    "healthcare",
+    "sport"
+   ],
+   "proof_level": "Live",
+   "story": null,
+   "context": null,
+   "design_notes": null,
+   "dev_notes": "Website development for a contemporary boxing studio in New York built with ACF Pro + Gutenbeerg, integrated with WooCommerce and weather.gov API",
+   "showcase_frames": null,
+   "bid": "⚡️ ORIGINAE — website development for a contemporary boxing studio in New York, built with ACF Pro + Gutenberg, integrated with WooCommerce and http://weather.gov API\nhttps://originaestudio.com/\nFigma: https://www.figma.com/design/fzhnjapCWSXJAD79281xoZ/Originae-DEV?m=auto&t=RMcRtXMpgkWrNG4W-6",
+   "has_case_study": false
+  },
+  {
+   "project": "PediatricsHealth",
+   "live": "https://premierpediatricshealth.com",
+   "figma": null,
+   "github": null,
+   "engagement": "Build only (client design)",
+   "redesign": false,
+   "deliverables": [
+    "Live website"
+   ],
+   "pages_designed": [],
+   "stack": [
+    "Divi"
+   ],
+   "features": [],
+   "industry": [
+    "healthcare"
+   ],
+   "proof_level": "Live",
+   "story": null,
+   "context": null,
+   "design_notes": "Divi website development using client's design. Google maps integration. Contact Form 7 forms creating and emails configuring",
+   "dev_notes": "Healthcare, pediatric website on Divi",
+   "showcase_frames": null,
+   "bid": "⚡️ PediatricsHealth — healthcare-focused pediatric website on Divi\nhttps://premierpediatricshealth.com",
+   "has_case_study": false
+  },
+  {
+   "project": "PlySupply",
+   "live": null,
+   "figma": "https://www.figma.com/design/r5CzsBncL2U8NP0HzsbEqG/Ply-Supply?node-id=0-1&t=gc3M6u0epngUXpqz-1",
+   "github": null,
+   "engagement": "Design + build",
+   "redesign": false,
+   "deliverables": [
+    "Figma designs"
+   ],
+   "pages_designed": [],
+   "stack": [
+    "Elementor",
+    "WooCommerce"
+   ],
+   "features": [
+    "E-commerce"
+   ],
+   "industry": [
+    "industrial",
+    "e-commerce"
+   ],
+   "proof_level": "Live",
+   "story": null,
+   "context": null,
+   "design_notes": null,
+   "dev_notes": null,
+   "showcase_frames": null,
+   "bid": "⚡️ PlySupply - https://ply-supply.com/ - a visual and technical redesign of a Canadian plywood and wood panel supplier website where the site was trasnformed into a modern B2B platform that supports quote request system instead of traditional checkout, real-time warehouse availability across multiple locations, extensive product filtering (size, thickness, grade, availability), bulk discount logic built-in, TranslatePress for multi-language support, over 30+ custom Elementor widgets, complete URL restructure without ranking loss",
+   "has_case_study": true
+  },
+  {
+   "project": "Promonodes",
+   "live": null,
+   "figma": "https://www.figma.com/design/SSyllylIh76dlnI6AtxVmq/Promonodess?node-id=41-8&t=sidWQaeY4IHMdiPk-1",
+   "github": null,
+   "engagement": "Design + build",
+   "redesign": false,
+   "deliverables": [
+    "Figma designs",
+    "Brand identity",
+    "App / dashboard design",
+    "Live website"
+   ],
+   "pages_designed": [
+    "Full site",
+    "Dashboard"
+   ],
+   "stack": [
+    "Elementor",
+    "WooCommerce"
+   ],
+   "features": [
+    "Dashboard",
+    "E-commerce"
+   ],
+   "industry": [
+    "industrial",
+    "software / SaaS",
+    "entertainment"
+   ],
+   "proof_level": "Not live",
+   "story": null,
+   "context": null,
+   "design_notes": null,
+   "dev_notes": null,
+   "showcase_frames": null,
+   "bid": "Promonodes - branding and website design for a NFC keychain manufacturer service featuring e-commerce functionality and user dashboard for managing the NFC settings\n\nLink: https://promonodes.com/\n\nFigma: https://www.figma.com/design/SSyllylIh76dlnI6AtxVmq/Promonodess?m=auto&t=QrDNH5mRXxLn5zOe-6",
+   "has_case_study": false
+  },
+  {
+   "project": "PullsandPars",
+   "live": "https://www.pullsandpars.com/",
+   "figma": "https://www.figma.com/design/4lCbRQojsoAyYu1Q5JZKUI/PullsAndPars?node-id=4-822&t=EnPaDsufJC8dvhKZ-4",
+   "github": null,
+   "engagement": "Design + build",
+   "redesign": false,
+   "deliverables": [
+    "Figma designs",
+    "Live website"
+   ],
+   "pages_designed": [
+    "Full site"
+   ],
+   "stack": [
+    "ACF",
+    "Custom theme",
+    "Gutenberg",
+    "WooCommerce"
+   ],
+   "features": [
+    "E-commerce"
+   ],
+   "industry": [
+    "sport",
+    "lifestyle",
+    "e-commerce"
+   ],
+   "proof_level": "Live",
+   "story": null,
+   "context": null,
+   "design_notes": null,
+   "dev_notes": "Design and development of a WooCommerce web shop for a collectible trading cards dealership on ACF Pro + Gutenberg custom theme",
+   "showcase_frames": null,
+   "bid": "⚡️ PullsandPars - design and development of a WooCommerce web shop for a collectible trading cards dealership\nhttps://pullsandpars.wp4u.link/\nFigma: https://www.figma.com/design/4lCbRQojsoAyYu1Q5JZKUI/PullsAndPars?node-id=4-822&t=EnPaDsufJC8dvhKZ-4",
+   "has_case_study": false
+  },
+  {
+   "project": "Rainmaker road",
+   "live": "https://rainmakerroad.com/",
+   "figma": null,
+   "github": null,
+   "engagement": "Design + build",
+   "redesign": false,
+   "deliverables": [
+    "Figma designs",
+    "Live website",
+    "Brand identity"
+   ],
+   "pages_designed": [
+    "Full site"
+   ],
+   "stack": [
+    "ACF",
+    "FacetWP",
+    "Kadence",
+    "SearchWP"
+   ],
+   "features": [],
+   "industry": [
+    "professional services",
+    "real estate"
+   ],
+   "proof_level": "Live",
+   "story": null,
+   "context": "B2B corporate",
+   "design_notes": null,
+   "dev_notes": null,
+   "showcase_frames": null,
+   "bid": "⚡️ https://rainmakerroad.com/ - a scalable real estate B2B vendor directory built for connecting agents with vetted vendors across 4 categories: CRMs, Websites, Lead Gen, Brokerages.\n\nFeatures a custom Vendor post type with taxonomies across Country, State, City, Features and Type, AJAX-powered filters and live keyword search, paid/free listing logic, user registration with role-based access, pending submission + admin moderation flow, and a Favorites system with a dedicated My Favorites page.",
+   "has_case_study": false
+  },
+  {
+   "project": "ReelCRM",
+   "live": "https://reelcrm.com/",
+   "figma": null,
+   "github": null,
+   "engagement": "Build only (client design)",
+   "redesign": false,
+   "deliverables": [
+    "Live website"
+   ],
+   "pages_designed": [],
+   "stack": [],
+   "features": [],
+   "industry": [
+    "entertainment",
+    "lifestyle"
+   ],
+   "proof_level": "Live",
+   "story": null,
+   "context": null,
+   "design_notes": "This platform allows users to upload and share video content with clients, receive feedback, and obtain approvals. Additionally, users can share content directly to social media platforms like YouTube, TikTok, and Instagram from within the platform, thereby saving time and improving team collaboration.",
+   "dev_notes": "Platform for Blogging work with the content on React, Node, Nest",
+   "showcase_frames": null,
+   "bid": "⚡️ ReelCRM — platform for blogging work with content on React, Node, and Nest\nhttps://reelcrm.com/",
+   "has_case_study": false
+  },
+  {
+   "project": "RVTC",
+   "live": "https://rvtc.ae/",
+   "figma": "https://www.figma.com/design/ffYM4SuA79ZUiMec8LMRMS/RVTC?node-id=0-1&t=aErAYjMft7LiO7tU-1",
+   "github": null,
+   "engagement": "Design only",
+   "redesign": false,
+   "deliverables": [
+    "Figma designs"
+   ],
+   "pages_designed": [],
+   "stack": [
+    "Figma"
+   ],
+   "features": [
+    "E-commerce"
+   ],
+   "industry": [
+    "food",
+    "e-commerce",
+    "lifestyle"
+   ],
+   "proof_level": "Live",
+   "story": "Specialty coffee roastery in Abu Dhabi (Roastery Vier · The Commonage) selling single-origin coffee, cold brew, equipment and apparel online and to businesses. Calm, image-led store with a hero video, small-batch product drops, a Taste Explorer quiz that recommends a roast and a direct-sourcing story told through origin imagery.",
+   "context": null,
+   "design_notes": "Visual website design for RVTC (Roastery Vier · The Commonage), a specialty coffee brand in Abu Dhabi. Premium, calm, imagery-led presentation with a hero video, featured coffee releases, origin storytelling and a Taste Explorer product-discovery experience. Live: https://rvtc.ae/ | Figma: https://www.figma.com/design/ffYM4SuA79ZUiMec8LMRMS/RVTC?node-id=0-1&t=aErAYjMft7LiO7tU-1",
+   "dev_notes": null,
+   "showcase_frames": null,
+   "bid": "⚡️ RVTC. A specialty coffee roastery in Abu Dhabi selling small-batch single-origin coffee online and to cafés. Calm, image-led store built around a hero video, limited batch drops, a Taste Explorer quiz that recommends a roast and the direct-sourcing story with their farmers.\nLive: https://rvtc.ae/\nFigma: https://www.figma.com/design/ffYM4SuA79ZUiMec8LMRMS/RVTC?node-id=0-1&t=aErAYjMft7LiO7tU-1",
+   "has_case_study": false
+  },
+  {
+   "project": "SAL ID",
+   "live": "https://sal.org.sg/",
+   "figma": null,
+   "github": "https://github.com/andrewpuzyrevichG/sal_id",
+   "engagement": "Custom plugin / integration",
+   "redesign": false,
+   "deliverables": [
+    "WordPress plugin"
+   ],
+   "pages_designed": [],
+   "stack": [
+    "Custom theme"
+   ],
+   "features": [],
+   "industry": [
+    "e-learning"
+   ],
+   "proof_level": "Live",
+   "story": null,
+   "context": null,
+   "design_notes": "Creation of 3 plugins for a Singapore School of Law:\n1. lps-authentication for authorization and registration by roles and administrators.\n2. lps-content-control for managing admin panel features based on roles.\n3. lps-poll-system for controlling commenting and WPForms surveys, including role control for who can comment, vote, and see results.\nhttps://sal.org.sg/",
+   "dev_notes": "Creation of 3 plugins for a Singapore School of Law:\n1. Plugin lps-authentication has functionality designed for authorization and registration of site clients by roles and administrators.\n2. Plugin lps-content-control for management of control to the admin panel’s features depending  on roles. \n3. Plugin lps-poll-system controls two things - commenting and working with WPForms forms - specifically surveys. Commenting on the site is allowed only on Chapter posts, commenting is allowed on a specific post or not, there is also role control. The survey is also controlled, who can show it, who can vote and who can see the result later",
+   "showcase_frames": null,
+   "bid": "⚡️ SAL ID — Creation of 3 plugins for the Singapore School of Law focused on user authentication, content control, and polling systems.\nhttps://sal.org.sg/\nFigma: Not provided.",
+   "has_case_study": true
+  },
+  {
+   "project": "Sayanchaga WooCommerce",
+   "live": "https://sayanchaga.com/",
+   "figma": null,
+   "github": null,
+   "engagement": "Design + build",
+   "redesign": false,
+   "deliverables": [
+    "Figma designs",
+    "Live website"
+   ],
+   "pages_designed": [
+    "Full site"
+   ],
+   "stack": [
+    "ACF",
+    "Custom theme",
+    "Gutenberg"
+   ],
+   "features": [
+    "E-commerce"
+   ],
+   "industry": [
+    "lifestyle",
+    "e-commerce"
+   ],
+   "proof_level": "Live",
+   "story": null,
+   "context": null,
+   "design_notes": "Creating of a large web store for chaga products:  https://sayanchaga.com/",
+   "dev_notes": "Large web store creation",
+   "showcase_frames": null,
+   "bid": "⚡️ Sayanchaga — large web store creation\nhttps://sayanchaga.com/",
+   "has_case_study": false
+  },
+  {
+   "project": "Selfologist",
+   "live": "https://selfologist.ai/",
+   "figma": "https://www.figma.com/design/7SSWzY3XKV3124ZWPpaXGu/Selfologist?node-id=0-1&t=uFTdukhaCfL0dmmA-1",
+   "github": null,
+   "engagement": "Design + build",
+   "redesign": false,
+   "deliverables": [
+    "Figma designs",
+    "Live website",
+    "Brand identity"
+   ],
+   "pages_designed": [
+    "Landing page"
+   ],
+   "stack": [
+    "Elementor"
+   ],
+   "features": [],
+   "industry": [
+    "healthcare"
+   ],
+   "proof_level": "Live",
+   "story": null,
+   "context": null,
+   "design_notes": "Selfologist is a landing page created for a chatbot focused on mental health support. Link: https://selfologist.ai/",
+   "dev_notes": "Landing page created for a chatbot for mental health support",
+   "showcase_frames": null,
+   "bid": "⚡️ Selfologist — landing page created for a chatbot focused on mental health support\n\nFigma: https://www.figma.com/design/7SSWzY3XKV3124ZWPpaXGu/Selfologist?node-id=0-1&t=uFTdukhaCfL0dmmA-1",
+   "has_case_study": false
+  },
+  {
+   "project": "Skincare and Moore",
+   "live": "https://skincareandmoore.com/",
+   "figma": "https://www.figma.com/design/i1roxtExduMU1FSyrFKoZq/Skincare---Moore?m=auto&t=GiqnvkPcWo4j7b1Y-6",
+   "github": null,
+   "engagement": "Design + build",
+   "redesign": false,
+   "deliverables": [
+    "Figma designs",
+    "Live website"
+   ],
+   "pages_designed": [
+    "Full site"
+   ],
+   "stack": [
+    "Custom theme"
+   ],
+   "features": [],
+   "industry": [
+    "healthcare",
+    "lifestyle"
+   ],
+   "proof_level": "Live",
+   "story": null,
+   "context": null,
+   "design_notes": "⚡️ Medical skin spa website\nFigma: https://www.figma.com/design/i1roxtExduMU1FSyrFKoZq/Skincare---Moore?m=auto&t=GiqnvkPcWo4j7b1Y-6https://skincareandmoore.com/",
+   "dev_notes": "Medical skin spa website",
+   "showcase_frames": null,
+   "bid": "⚡️ Medical Skin Spa Website with a luxurious online presence for a healthcare-focused skincare spa\nhttps://skincareandmoore.com/\nFigma: https://www.figma.com/design/i1roxtExduMU1FSyrFKoZq/Skincare---Moore?m=auto&t=GiqnvkPcWo4j7b1Y-6",
+   "has_case_study": false
+  },
+  {
+   "project": "Sonrisas Mexicanas",
+   "live": null,
+   "figma": "https://www.figma.com/design/qxnqqMLynAnNDmb6hCTU0V/Sonrisas-Mexicanas?node-id=0-1&t=x6IKDuagdfX1QLEl-1",
+   "github": null,
+   "engagement": "Design only",
+   "redesign": false,
+   "deliverables": [
+    "Figma designs",
+    "App / dashboard design"
+   ],
+   "pages_designed": [
+    "Full site",
+    "App screens"
+   ],
+   "stack": [],
+   "features": [],
+   "industry": [
+    "healthcare",
+    "dental"
+   ],
+   "proof_level": "Not live",
+   "story": null,
+   "context": null,
+   "design_notes": null,
+   "dev_notes": null,
+   "showcase_frames": null,
+   "bid": "⚡️ Dentistry mob and web app: https://www.figma.com/design/qxnqqMLynAnNDmb6hCTU0V/Sonrisas-Mexicanas?node-id=0-1&t=2nfEc0CI85k15ao5-1",
+   "has_case_study": false
+  },
+  {
+   "project": "Speed optimization for Gessato",
+   "live": "https://shop.gessato.com/",
+   "figma": null,
+   "github": null,
+   "engagement": "Build only (client design)",
+   "redesign": false,
+   "deliverables": [],
+   "pages_designed": [],
+   "stack": [
+    "ACF",
+    "Gutenberg",
+    "Custom theme",
+    "WooCommerce"
+   ],
+   "features": [
+    "E-commerce"
+   ],
+   "industry": [
+    "lifestyle",
+    "e-commerce"
+   ],
+   "proof_level": "Live",
+   "story": null,
+   "context": null,
+   "design_notes": null,
+   "dev_notes": null,
+   "showcase_frames": null,
+   "bid": "⚡️ Gessato. \n\nSpeed optimization for the Gessato e-commerce store, built with WooCommerce, ACF, a custom theme, and Gutenberg. The project focused on improving the live site’s performance for a lifestyle retailer.\n\nhttps://shop.gessato.com/\n\nFigma:",
+   "has_case_study": false
+  },
+  {
+   "project": "Stugor Booking",
+   "live": "https://Stugor2.hemsida.eu",
+   "figma": null,
+   "github": "https://github.com/yuliakolyada624/beds24_booking_engine.git",
+   "engagement": "Custom plugin / integration",
+   "redesign": false,
+   "deliverables": [
+    "WordPress plugin"
+   ],
+   "pages_designed": [],
+   "stack": [
+    "ACF",
+    "Gutenberg"
+   ],
+   "features": [
+    "Third-party API sync"
+   ],
+   "industry": [
+    "hospitality",
+    "lifestyle"
+   ],
+   "proof_level": "Live",
+   "story": null,
+   "context": null,
+   "design_notes": "Custom-built WooCommerce booking engine for vacation houses with dynamic availability calendars, pricing by date rules, and advanced API syncing. Link: https://Stugor2.hemsida.eu",
+   "dev_notes": "Custom-built WooCommerce + cusotm Beds24 API-powered booking engine for vacation houses, including dynamic availability calendars, pricing by date rules, and advanced API syncing+ the same logic for deposits as you require. Here's the GitHub repository of this booking pugin:",
+   "showcase_frames": null,
+   "bid": "⚡️ Stugor Booking — custom-built WooCommerce + Beds24 API-powered booking engine for vacation houses, featuring dynamic availability calendars, date‑rule pricing, and advanced deposit logic.\nhttps://Stugor2.hemsida.eu",
+   "has_case_study": false
+  },
+  {
+   "project": "The Keys",
+   "live": null,
+   "figma": null,
+   "github": null,
+   "engagement": "Build only (client design)",
+   "redesign": false,
+   "deliverables": [
+    "Live website",
+    "WordPress plugin"
+   ],
+   "pages_designed": [],
+   "stack": [
+    "ACF",
+    "Gutenberg"
+   ],
+   "features": [
+    "Listing / directory",
+    "Third-party API sync"
+   ],
+   "industry": [
+    "real estate"
+   ],
+   "proof_level": null,
+   "story": null,
+   "context": null,
+   "design_notes": null,
+   "dev_notes": null,
+   "showcase_frames": null,
+   "bid": "⚡️ The Keys. A Belgian property management and brokerage group. I connected their Omnicasa account through the Omnicasa API, so properties for sale and for rent sync into separate searchable listing pages next to their valuation request flow.\n\nLive link: https://thekeys.tanuki.digital/",
+   "has_case_study": false
+  },
+  {
+   "project": "Therappy",
+   "live": "https://therappy.com/",
+   "figma": "https://www.figma.com/design/QenwhZPrsNcmqRzmvuBl2H/Therappy?m=auto&t=BRkiTZsdbkYNaQQK-6",
+   "github": null,
+   "engagement": "Design + build",
+   "redesign": false,
+   "deliverables": [
+    "Figma designs",
+    "Live website"
+   ],
+   "pages_designed": [
+    "Full site"
+   ],
+   "stack": [],
+   "features": [],
+   "industry": [
+    "healthcare",
+    "software / SaaS"
+   ],
+   "proof_level": "Live",
+   "story": null,
+   "context": null,
+   "design_notes": null,
+   "dev_notes": null,
+   "showcase_frames": null,
+   "bid": "Therappy. Website design and development for a B2B platform that helps clinics, therapy practices, and solo specialists automate their daily operations\n\nhttps://therappy.com/ \n\nFigma: \nhttps://www.figma.com/design/QenwhZPrsNcmqRzmvuBl2H/Therappy?m=auto&t=BRkiTZsdbkYNaQQK-6",
+   "has_case_study": false
+  },
+  {
+   "project": "Tulip",
+   "live": null,
+   "figma": "https://www.figma.com/design/P7hxFzXe6ZAh6d1o44bd3y/Tulip?node-id=0-1&t=LIqibhz44AYTUz7s-1",
+   "github": null,
+   "engagement": "Design + build",
+   "redesign": false,
+   "deliverables": [
+    "Figma designs",
+    "App / dashboard design"
+   ],
+   "pages_designed": [
+    "Dashboard"
+   ],
+   "stack": [],
+   "features": [
+    "Dashboard"
+   ],
+   "industry": [
+    "healthcare",
+    "lifestyle"
+   ],
+   "proof_level": "Not live",
+   "story": null,
+   "context": null,
+   "design_notes": "⚡️ Tulip — Web app and landing page for connecting with professionals to get personalized wellness plans\n\nFigma: https://www.figma.com/design/P7hxFzXe6ZAh6d1o44bd3y/Tulip?node-id=0-1&t=LIqibhz44AYTUz7s-1\nhttps://www.tulip.com/",
+   "dev_notes": "⚡️ Web app and Landing page for a services aimed at connecting with professionals to get personalized wellness plans",
+   "showcase_frames": null,
+   "bid": "⚡️ Web app and Landing page for a service aimed at connecting with professionals to get personalized wellness plans\n\nFigma: https://www.figma.com/design/P7hxFzXe6ZAh6d1o44bd3y/Tulip?node-id=0-1&t=LIqibhz44AYTUz7s-1",
+   "has_case_study": false
+  },
+  {
+   "project": "Volteam",
+   "live": null,
+   "figma": "https://www.figma.com/design/S0aBJJr3zXtWjs3OelY4Es/Volteam?t=cB6jAaqhG4X8f2Jc-0",
+   "github": null,
+   "engagement": "Design + build",
+   "redesign": true,
+   "deliverables": [
+    "Figma designs",
+    "WordPress plugin"
+   ],
+   "pages_designed": [],
+   "stack": [
+    "Custom theme"
+   ],
+   "features": [],
+   "industry": [
+    "industrial",
+    "professional services"
+   ],
+   "proof_level": "Live",
+   "story": null,
+   "context": null,
+   "design_notes": "⚡️ Volteam — corporate and industrial project\nFigma: https://www.figma.com/design/S0aBJJr3zXtWjs3OelY4Es/Volteam?t=cB6jAaqhG4X8f2Jc-0",
+   "dev_notes": null,
+   "showcase_frames": null,
+   "bid": "⚡️ Volteam — corporate and industrial work case overview\nhttps://volteam.com.au/ \n\nFigma: https://www.figma.com/design/S0aBJJr3zXtWjs3OelY4Es/Volteam?t=cB6jAaqhG4X8f2Jc-0",
+   "has_case_study": false
+  },
+  {
+   "project": "Westernacher",
+   "live": null,
+   "figma": null,
+   "github": null,
+   "engagement": "Build only (client design)",
+   "redesign": false,
+   "deliverables": [],
+   "pages_designed": [],
+   "stack": [
+    "Elementor"
+   ],
+   "features": [],
+   "industry": [
+    "professional services"
+   ],
+   "proof_level": "Not live",
+   "story": null,
+   "context": null,
+   "design_notes": null,
+   "dev_notes": null,
+   "showcase_frames": null,
+   "bid": "⚡️  https://westernacher.com/: Elementor website designed and built for a serious SAP consulting firm",
+   "has_case_study": false
+  },
+  {
+   "project": "Whiskey Library",
+   "live": null,
+   "figma": "https://www.figma.com/design/D0evPXk6hygKzwvRYJqLnk/Whiskey-Library?node-id=2025-302&t=EjSEvYSQd1qDmxYg-1",
+   "github": null,
+   "engagement": "Design only",
+   "redesign": true,
+   "deliverables": [
+    "Figma designs",
+    "Home concepts"
+   ],
+   "pages_designed": [
+    "Home page"
+   ],
+   "stack": [],
+   "features": [
+    "For Shopify"
+   ],
+   "industry": [
+    "e-commerce",
+    "entertainment",
+    "food"
+   ],
+   "proof_level": "Concept",
+   "story": null,
+   "context": "Concept 01 = Modern Luxury\nThis concept focuses on the product and conversion. I restructured the information hierarchy, removed repetitive messaging, unified the UI components, and created a cleaner layout so visitors could quickly understand the value of the Mystery Bourbon Box and move naturally toward the primary CTA. Visually, the direction creates a contemporary, high-end ecommerce experience with the product at its center.\nConcept 02 = The Curator’s Journal\nThis concept shifts the emphasis toward brand storytelling. I reorganized the content flow so visitors first discover Whiskey Library’s philosophy and expertise before being introduced to the product. Editorial layouts, large-scale photography, and a curated archive of previous discoveries replace more conventional product sections. The direction is intended to build trust and position Whiskey Library as an exclusive whiskey club rather than a traditional ecommerce store.",
+   "design_notes": null,
+   "dev_notes": null,
+   "showcase_frames": null,
+   "bid": "Whiskey library wanted to relaunch their brand identity and how they sell the whiskey subscription on their website so we came up with 2 alternative home page concepts to explore how we could integrate new user journeys through elevated style: https://www.figma.com/design/D0evPXk6hygKzwvRYJqLnk/Whiskey-Library?node-id=2025-302&t=EjSEvYSQd1qDmxYg-1",
+   "has_case_study": false
+  },
+  {
+   "project": "WooCommerce Inventory plugin > Zoho ERP",
+   "live": null,
+   "figma": null,
+   "github": "https://github.com/yuliakolyada624/zoho_int-main\nhttps://github.com/andrewpuzyrevichG/zoho_plugin\n\nhttps://github.com/andrewpuzyrevichG/zoho_plugin",
+   "engagement": "Custom plugin / integration",
+   "redesign": false,
+   "deliverables": [
+    "WordPress plugin"
+   ],
+   "pages_designed": [],
+   "stack": [],
+   "features": [
+    "E-commerce",
+    "Third-party API sync"
+   ],
+   "industry": [
+    "e-commerce"
+   ],
+   "proof_level": "Not live",
+   "story": null,
+   "context": null,
+   "design_notes": "A plugin that integrates with Zoho ERP and WooCommerce via API for automatic product synchronization and customizable markup settings.",
+   "dev_notes": "A plugin that integrates with Zoho ERP and WooCommerce via API\n\n- synchronization of products with Zoho and WP backend where products on the site are updated automatically (price/quantity, etc.)\n-  WP admin panel allows to choose what markup to set (the usual/10% added to the price/10% subtracted from the price etc)",
+   "showcase_frames": null,
+   "bid": "⚡️ WooCommerce Inventory Plugin — Integration with Zoho ERP for seamless product synchronization\n\nGithub: https://github.com/yuliakolyada624/zoho_int-main\nGithub: https://github.com/andrewpuzyrevichG/zoho_plugin",
+   "has_case_study": false
+  },
+  {
+   "project": "Zwanzig23",
+   "live": "https://zwanzig23.com/",
+   "figma": "https://www.figma.com/design/aOmWdoHiI9wNGCCm8UjnqP/ZWANZIG-20-23?node-id=0-1&t=k9iucQsLMR8xC0X3-1",
+   "github": null,
+   "engagement": "Design + build",
+   "redesign": false,
+   "deliverables": [
+    "Figma designs",
+    "Live website"
+   ],
+   "pages_designed": [
+    "Full site"
+   ],
+   "stack": [
+    "Elementor"
+   ],
+   "features": [],
+   "industry": [
+    "hospitality",
+    "lifestyle"
+   ],
+   "proof_level": "Live",
+   "story": null,
+   "context": null,
+   "design_notes": null,
+   "dev_notes": null,
+   "showcase_frames": null,
+   "bid": "⚡️ Zwanzig23 - Michelin-starred restaurant in Dusseldorf\nhttps://zwanzig23.com/\nFigma: https://www.figma.com/design/aOmWdoHiI9wNGCCm8UjnqP/ZWANZIG-20-23?node-id=0-1&t=k9iucQsLMR8xC0X3-1",
+   "has_case_study": false
+  }
+ ]
+}
